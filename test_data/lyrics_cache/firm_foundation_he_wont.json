@@ -1,0 +1,312 @@
+{
+  "song_name": "Firm Foundation (He Won't)",
+  "pro7_uuid": "D868C3F8-006F-4409-8F0C-6CE1567DD5EE",
+  "groups": [
+    {
+      "uuid": "574F24CC-0DA3-4CE1-AEF8-3CC13F3B5D61",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "Christ is my firm foundation",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The rock on which I stand",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "When everything around me is shaken",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I've never been more glad",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "That I put my faith in Jesus",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "'Cause He's never let me down",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He's faithful through generations",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "So why would He fail now",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "7BC2B2A1-4894-45E7-9F67-2C4ABDF37592",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "He won't He won't",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "C9551121-22A0-4DA2-B256-E88CD3439351",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "I've still got joy in chaos",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I've got peace that makes no sense",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "So I won't be going under",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I'm not held by my own strength",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "'Cause I've built my life on Jesus",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He's never let me down",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He's faithful in every season",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "So why would He fail now",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "FA94103A-31E0-45D0-AED4-4A1C1360145E",
+      "name": "Chorus 2",
+      "slides": [
+        {
+          "text": "He won't He won't",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He won't fail",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He won't fail",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "23E686D5-B8EC-4005-AF06-579357D65542",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "Rain came  wind blew",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "But my house was built on You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I'm safe with You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I'm going to make it through",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "43EA2652-AB70-4CAF-8FE9-173F6BE3F5D3",
+      "name": "Vamp",
+      "slides": [
+        {
+          "text": "Yeah I'm going to make it through",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "'Cause I'm standing strong on You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Yeah I'm going to make it through",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "'Cause my house is built on You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "6680F0EF-273E-4ECC-9E97-02B9A07AF005",
+      "name": "Chorus 3",
+      "slides": [
+        {
+          "text": "He won't",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He won\u2019t",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He won\u2019t fail",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He won\u2019t fail",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "B4B38278-F529-4695-88BD-6B24AAF95B50",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "67CDEFFF-61C1-48D0-8EFE-5FFCC41C2DB3",
+      "name": "Ending",
+      "slides": [
+        {
+          "text": "HE Won\u2019T",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "590335BF-E88D-4022-85B9-458A4276CF26",
+      "name": "Tag 1",
+      "slides": [
+        {
+          "text": "I\u2019m gonna make it through",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "7F485934-0ADB-4A78-9ABF-C7D917F55AE0",
+      "name": "Tag 2",
+      "slides": [
+        {
+          "text": "My house is built on you",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "2573818C-5F5A-4901-A2E6-AF8810277714",
+      "group_uuids": [
+        "B4B38278-F529-4695-88BD-6B24AAF95B50",
+        "574F24CC-0DA3-4CE1-AEF8-3CC13F3B5D61",
+        "7BC2B2A1-4894-45E7-9F67-2C4ABDF37592",
+        "C9551121-22A0-4DA2-B256-E88CD3439351",
+        "FA94103A-31E0-45D0-AED4-4A1C1360145E",
+        "FA94103A-31E0-45D0-AED4-4A1C1360145E",
+        "574F24CC-0DA3-4CE1-AEF8-3CC13F3B5D61",
+        "FA94103A-31E0-45D0-AED4-4A1C1360145E",
+        "B4B38278-F529-4695-88BD-6B24AAF95B50",
+        "23E686D5-B8EC-4005-AF06-579357D65542",
+        "23E686D5-B8EC-4005-AF06-579357D65542",
+        "23E686D5-B8EC-4005-AF06-579357D65542",
+        "43EA2652-AB70-4CAF-8FE9-173F6BE3F5D3",
+        "B4B38278-F529-4695-88BD-6B24AAF95B50",
+        "590335BF-E88D-4022-85B9-458A4276CF26",
+        "B4B38278-F529-4695-88BD-6B24AAF95B50",
+        "7F485934-0ADB-4A78-9ABF-C7D917F55AE0",
+        "574F24CC-0DA3-4CE1-AEF8-3CC13F3B5D61",
+        "6680F0EF-273E-4ECC-9E97-02B9A07AF005",
+        "6680F0EF-273E-4ECC-9E97-02B9A07AF005",
+        "6680F0EF-273E-4ECC-9E97-02B9A07AF005",
+        "6680F0EF-273E-4ECC-9E97-02B9A07AF005",
+        "6680F0EF-273E-4ECC-9E97-02B9A07AF005",
+        "B4B38278-F529-4695-88BD-6B24AAF95B50"
+      ]
+    },
+    {
+      "name": "MIDI Cut",
+      "uuid": "F471F83C-6EA8-4174-9417-444C8B08E7D6",
+      "group_uuids": [
+        "B4B38278-F529-4695-88BD-6B24AAF95B50",
+        "574F24CC-0DA3-4CE1-AEF8-3CC13F3B5D61",
+        "7BC2B2A1-4894-45E7-9F67-2C4ABDF37592",
+        "C9551121-22A0-4DA2-B256-E88CD3439351",
+        "FA94103A-31E0-45D0-AED4-4A1C1360145E",
+        "FA94103A-31E0-45D0-AED4-4A1C1360145E",
+        "574F24CC-0DA3-4CE1-AEF8-3CC13F3B5D61",
+        "FA94103A-31E0-45D0-AED4-4A1C1360145E",
+        "B4B38278-F529-4695-88BD-6B24AAF95B50",
+        "23E686D5-B8EC-4005-AF06-579357D65542",
+        "23E686D5-B8EC-4005-AF06-579357D65542",
+        "23E686D5-B8EC-4005-AF06-579357D65542",
+        "43EA2652-AB70-4CAF-8FE9-173F6BE3F5D3",
+        "B4B38278-F529-4695-88BD-6B24AAF95B50",
+        "590335BF-E88D-4022-85B9-458A4276CF26",
+        "B4B38278-F529-4695-88BD-6B24AAF95B50",
+        "7F485934-0ADB-4A78-9ABF-C7D917F55AE0",
+        "574F24CC-0DA3-4CE1-AEF8-3CC13F3B5D61",
+        "67CDEFFF-61C1-48D0-8EFE-5FFCC41C2DB3",
+        "B4B38278-F529-4695-88BD-6B24AAF95B50",
+        "B4B38278-F529-4695-88BD-6B24AAF95B50"
+      ]
+    }
+  ],
+  "current_arrangement": ""
+}

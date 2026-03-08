@@ -1,0 +1,452 @@
+{
+  "song_name": "Here In Your House",
+  "bpm": 181.5,
+  "offset": 5.0,
+  "model": "medium",
+  "results": [
+    {
+      "position": 1,
+      "gt_slide": 1,
+      "gt_time": 0.331,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 1",
+      "status": "MISSED"
+    },
+    {
+      "position": 2,
+      "gt_slide": 3,
+      "gt_time": 10.413,
+      "al_time": 25.813,
+      "delta": 10.4,
+      "confidence": 1.0,
+      "gt_name": "Slide 2",
+      "status": "BAD"
+    },
+    {
+      "position": 3,
+      "gt_slide": 3,
+      "gt_time": 11.736,
+      "al_time": 26.473,
+      "delta": 9.737,
+      "confidence": 1.0,
+      "gt_name": "Slide 2",
+      "status": "BAD"
+    },
+    {
+      "position": 4,
+      "gt_slide": 3,
+      "gt_time": 14.605,
+      "al_time": 26.473,
+      "delta": 6.868,
+      "confidence": 1.0,
+      "gt_name": "Slide 3",
+      "status": "BAD"
+    },
+    {
+      "position": 5,
+      "gt_slide": 4,
+      "gt_time": 17.851,
+      "al_time": 26.473,
+      "delta": 3.622,
+      "confidence": 1.0,
+      "gt_name": "Slide 4",
+      "status": "POOR"
+    },
+    {
+      "position": 6,
+      "gt_slide": 5,
+      "gt_time": 26.035,
+      "al_time": 26.513,
+      "delta": -4.522,
+      "confidence": 1.0,
+      "gt_name": "Slide 5",
+      "status": "POOR"
+    },
+    {
+      "position": 7,
+      "gt_slide": 6,
+      "gt_time": 30.014,
+      "al_time": 26.513,
+      "delta": -8.501,
+      "confidence": 1.0,
+      "gt_name": "Slide 6",
+      "status": "BAD"
+    },
+    {
+      "position": 8,
+      "gt_slide": 7,
+      "gt_time": 33.719,
+      "al_time": 26.513,
+      "delta": -12.206,
+      "confidence": 1.0,
+      "gt_name": "Slide 7",
+      "status": "BAD"
+    },
+    {
+      "position": 9,
+      "gt_slide": 8,
+      "gt_time": 41.474,
+      "al_time": 41.614,
+      "delta": -4.86,
+      "confidence": 1.0,
+      "gt_name": "Slide 8",
+      "status": "POOR"
+    },
+    {
+      "position": 10,
+      "gt_slide": 9,
+      "gt_time": 46.91,
+      "al_time": 41.614,
+      "delta": -10.296,
+      "confidence": 1.0,
+      "gt_name": "Slide 9",
+      "status": "BAD"
+    },
+    {
+      "position": 11,
+      "gt_slide": 10,
+      "gt_time": 55.537,
+      "al_time": 41.734,
+      "delta": -18.803,
+      "confidence": 1.0,
+      "gt_name": "Slide 10",
+      "status": "BAD"
+    },
+    {
+      "position": 12,
+      "gt_slide": 11,
+      "gt_time": 63.471,
+      "al_time": 48.174,
+      "delta": -20.297,
+      "confidence": 1.0,
+      "gt_name": "Slide 11",
+      "status": "BAD"
+    },
+    {
+      "position": 13,
+      "gt_slide": 12,
+      "gt_time": 70.836,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 12",
+      "status": "MISSED"
+    },
+    {
+      "position": 14,
+      "gt_slide": 13,
+      "gt_time": 78.236,
+      "al_time": 83.316,
+      "delta": 0.08,
+      "confidence": 1.0,
+      "gt_name": "Slide 13",
+      "status": "EXCELLENT"
+    },
+    {
+      "position": 15,
+      "gt_slide": 14,
+      "gt_time": 83.514,
+      "al_time": 103.856,
+      "delta": 15.342,
+      "confidence": 1.0,
+      "gt_name": "Slide 14",
+      "status": "BAD"
+    },
+    {
+      "position": 16,
+      "gt_slide": 15,
+      "gt_time": 87.483,
+      "al_time": 103.856,
+      "delta": 11.373,
+      "confidence": 1.0,
+      "gt_name": "Slide 15",
+      "status": "BAD"
+    },
+    {
+      "position": 17,
+      "gt_slide": 17,
+      "gt_time": 91.063,
+      "al_time": 103.856,
+      "delta": 7.793,
+      "confidence": 1.0,
+      "gt_name": "Slide 16",
+      "status": "BAD"
+    },
+    {
+      "position": 18,
+      "gt_slide": 17,
+      "gt_time": 98.853,
+      "al_time": 99.133,
+      "delta": -4.72,
+      "confidence": 1.0,
+      "gt_name": "Slide 17",
+      "status": "POOR"
+    },
+    {
+      "position": 19,
+      "gt_slide": 18,
+      "gt_time": 105.463,
+      "al_time": 99.133,
+      "delta": -11.33,
+      "confidence": 1.0,
+      "gt_name": "Slide 18",
+      "status": "BAD"
+    },
+    {
+      "position": 20,
+      "gt_slide": 19,
+      "gt_time": 112.573,
+      "al_time": 99.273,
+      "delta": -18.3,
+      "confidence": 1.0,
+      "gt_name": "Slide 19",
+      "status": "BAD"
+    },
+    {
+      "position": 21,
+      "gt_slide": 20,
+      "gt_time": 120.283,
+      "al_time": 107.493,
+      "delta": -17.79,
+      "confidence": 1.0,
+      "gt_name": "Slide 20",
+      "status": "BAD"
+    },
+    {
+      "position": 22,
+      "gt_slide": 22,
+      "gt_time": 128.443,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 21",
+      "status": "MISSED"
+    },
+    {
+      "position": 23,
+      "gt_slide": 22,
+      "gt_time": 135.661,
+      "al_time": 132.881,
+      "delta": -7.78,
+      "confidence": 1.0,
+      "gt_name": "Slide 22",
+      "status": "BAD"
+    },
+    {
+      "position": 24,
+      "gt_slide": 23,
+      "gt_time": 141.191,
+      "al_time": 141.381,
+      "delta": -4.81,
+      "confidence": 1.0,
+      "gt_name": "Slide 23",
+      "status": "POOR"
+    },
+    {
+      "position": 25,
+      "gt_slide": 24,
+      "gt_time": 146.108,
+      "al_time": 141.801,
+      "delta": -9.307,
+      "confidence": 1.0,
+      "gt_name": "Slide 24",
+      "status": "BAD"
+    },
+    {
+      "position": 26,
+      "gt_slide": 25,
+      "gt_time": 149.892,
+      "al_time": 142.021,
+      "delta": -12.871,
+      "confidence": 1.0,
+      "gt_name": "Slide 25",
+      "status": "BAD"
+    },
+    {
+      "position": 27,
+      "gt_slide": 26,
+      "gt_time": 154.042,
+      "al_time": 156.702,
+      "delta": -2.34,
+      "confidence": 1.0,
+      "gt_name": "Slide 26",
+      "status": "POOR"
+    },
+    {
+      "position": 28,
+      "gt_slide": 27,
+      "gt_time": 158.352,
+      "al_time": 157.342,
+      "delta": -6.01,
+      "confidence": 1.0,
+      "gt_name": "Slide 27",
+      "status": "BAD"
+    },
+    {
+      "position": 29,
+      "gt_slide": 28,
+      "gt_time": 162.262,
+      "al_time": 158.562,
+      "delta": -8.7,
+      "confidence": 1.0,
+      "gt_name": "Slide 28",
+      "status": "BAD"
+    },
+    {
+      "position": 30,
+      "gt_slide": 29,
+      "gt_time": 165.992,
+      "al_time": 158.562,
+      "delta": -12.43,
+      "confidence": 1.0,
+      "gt_name": "Slide 29",
+      "status": "BAD"
+    },
+    {
+      "position": 31,
+      "gt_slide": 30,
+      "gt_time": 169.962,
+      "al_time": 172.582,
+      "delta": -2.38,
+      "confidence": 1.0,
+      "gt_name": "Slide 30",
+      "status": "POOR"
+    },
+    {
+      "position": 32,
+      "gt_slide": 31,
+      "gt_time": 172.871,
+      "al_time": 173.202,
+      "delta": -4.669,
+      "confidence": 1.0,
+      "gt_name": "Slide 31",
+      "status": "POOR"
+    },
+    {
+      "position": 33,
+      "gt_slide": 32,
+      "gt_time": 177.519,
+      "al_time": 173.682,
+      "delta": -8.837,
+      "confidence": 1.0,
+      "gt_name": "Slide 32",
+      "status": "BAD"
+    },
+    {
+      "position": 34,
+      "gt_slide": 33,
+      "gt_time": 181.811,
+      "al_time": 173.882,
+      "delta": -12.929,
+      "confidence": 1.0,
+      "gt_name": "Slide 33",
+      "status": "BAD"
+    },
+    {
+      "position": 35,
+      "gt_slide": 34,
+      "gt_time": 185.881,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 34",
+      "status": "MISSED"
+    },
+    {
+      "position": 36,
+      "gt_slide": 35,
+      "gt_time": 192.002,
+      "al_time": 188.422,
+      "delta": -8.58,
+      "confidence": 1.0,
+      "gt_name": "Slide 35",
+      "status": "BAD"
+    },
+    {
+      "position": 37,
+      "gt_slide": 36,
+      "gt_time": 204.132,
+      "al_time": 206.962,
+      "delta": -2.17,
+      "confidence": 1.0,
+      "gt_name": "Slide 36",
+      "status": "POOR"
+    },
+    {
+      "position": 38,
+      "gt_slide": 37,
+      "gt_time": 212.148,
+      "al_time": 209.762,
+      "delta": -7.386,
+      "confidence": 1.0,
+      "gt_name": "Slide 37",
+      "status": "BAD"
+    },
+    {
+      "position": 39,
+      "gt_slide": 38,
+      "gt_time": 219.842,
+      "al_time": 220.182,
+      "delta": -4.66,
+      "confidence": 1.0,
+      "gt_name": "Slide 38",
+      "status": "POOR"
+    },
+    {
+      "position": 40,
+      "gt_slide": 39,
+      "gt_time": 227.782,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 39",
+      "status": "MISSED"
+    },
+    {
+      "position": 41,
+      "gt_slide": 40,
+      "gt_time": 234.756,
+      "al_time": 252.159,
+      "delta": 12.403,
+      "confidence": 1.0,
+      "gt_name": "Slide 40",
+      "status": "BAD"
+    },
+    {
+      "position": 42,
+      "gt_slide": 41,
+      "gt_time": 247.159,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 41",
+      "status": "MISSED"
+    },
+    {
+      "position": 43,
+      "gt_slide": 42,
+      "gt_time": 250.666,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0,
+      "gt_name": "Slide 42",
+      "status": "EXTRA_GT"
+    }
+  ],
+  "summary": {
+    "ground_truth_slides": 43,
+    "alignment_slides": 42,
+    "compared": 42,
+    "matched": 36,
+    "missed": 6,
+    "avg_delta": 9.031,
+    "max_delta": 20.297,
+    "median_delta": 8.7,
+    "within_0.5s": 1,
+    "within_1s": 1,
+    "within_2s": 1,
+    "within_5s": 11
+  }
+}

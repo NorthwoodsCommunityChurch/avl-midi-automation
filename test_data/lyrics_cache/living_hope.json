@@ -1,0 +1,222 @@
+{
+  "song_name": "Living Hope",
+  "pro7_uuid": "724496AF-ADD2-4B93-B36A-FE38161D633D",
+  "groups": [
+    {
+      "uuid": "35CB1B0D-72A2-407E-BA34-735D134CC549",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "How great the chasm that lay between us\nHow high the mountain I could not climb",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "In desperation I turned to heaven\nAnd spoke Your name into the night",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "59F0AF4F-4A21-433C-9A14-936A63CADAC2",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "Then through the darkness Your loving kindness\nTore through the shadows of my soul",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The work is finished the end is written\nJesus Christ my living hope",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "7A28540B-D99F-43C2-9B55-08A26F4B82EB",
+      "name": "Verse 3",
+      "slides": [
+        {
+          "text": "Who could imagine so great a mercy\nWhat heart could fathom such boundless grace",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The God of ages stepped down from glory\nTo wear my sin and bear my shame",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "F6D8D0D6-5704-4378-B73B-EF389C396780",
+      "name": "Verse 4",
+      "slides": [
+        {
+          "text": "The cross has spoken I am forgiven\nThe King of kings calls me His own",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Beautiful Savior I\u2019m Yours forever\nJesus Christ my living hope",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "Hallelujah praise the One who set me free\nHallelujah death has lost its grip on me",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "You have broken every chain\nThere\u2019s salvation in Your name",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Jesus Christ my living hope",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "91C9AF8C-EAB2-40C9-9940-B926B90EE6D7",
+      "name": "Verse 5",
+      "slides": [
+        {
+          "text": "Then came the morning that sealed the promise\nYour buried body began to breathe",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Out of the silence the Roaring Lion\nDeclared the grave has no claim on me",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "A7321B68-2670-48C6-A143-EB7AA433A117",
+      "name": "Tag 1",
+      "slides": [
+        {
+          "text": "Jesus Yours is the victory",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "40460C78-CD7B-46BD-81A1-E113A1244182",
+      "name": "Tag 2",
+      "slides": [
+        {
+          "text": "Jesus Christ my living hope",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "DD1FC2FE-3BC1-4CE0-91C5-56B5ADF5280E",
+      "name": "Title",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI (Victory)",
+      "uuid": "AC56D2D8-41DC-43BE-AC6A-F8A8088854CF",
+      "group_uuids": [
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "35CB1B0D-72A2-407E-BA34-735D134CC549",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "7A28540B-D99F-43C2-9B55-08A26F4B82EB",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "91C9AF8C-EAB2-40C9-9940-B926B90EE6D7",
+        "91C9AF8C-EAB2-40C9-9940-B926B90EE6D7",
+        "A7321B68-2670-48C6-A143-EB7AA433A117",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "40460C78-CD7B-46BD-81A1-E113A1244182",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "A7321B68-2670-48C6-A143-EB7AA433A117",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22"
+      ]
+    },
+    {
+      "name": "MIDI (Bethany)",
+      "uuid": "A4E25BAA-0EBB-47BF-B67D-341714BF35D4",
+      "group_uuids": [
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "35CB1B0D-72A2-407E-BA34-735D134CC549",
+        "59F0AF4F-4A21-433C-9A14-936A63CADAC2",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "7A28540B-D99F-43C2-9B55-08A26F4B82EB",
+        "F6D8D0D6-5704-4378-B73B-EF389C396780",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "91C9AF8C-EAB2-40C9-9940-B926B90EE6D7",
+        "91C9AF8C-EAB2-40C9-9940-B926B90EE6D7",
+        "A7321B68-2670-48C6-A143-EB7AA433A117",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "40460C78-CD7B-46BD-81A1-E113A1244182",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "40460C78-CD7B-46BD-81A1-E113A1244182",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22"
+      ]
+    },
+    {
+      "name": "MIDI (Bethany) CUT",
+      "uuid": "911D67D2-6851-4BBD-950D-D1139C67BD3E",
+      "group_uuids": [
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "35CB1B0D-72A2-407E-BA34-735D134CC549",
+        "59F0AF4F-4A21-433C-9A14-936A63CADAC2",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "7A28540B-D99F-43C2-9B55-08A26F4B82EB",
+        "F6D8D0D6-5704-4378-B73B-EF389C396780",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "91C9AF8C-EAB2-40C9-9940-B926B90EE6D7",
+        "91C9AF8C-EAB2-40C9-9940-B926B90EE6D7",
+        "A7321B68-2670-48C6-A143-EB7AA433A117",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "5F2B1FBB-A98E-4C03-9094-A1495DADADFF",
+        "40460C78-CD7B-46BD-81A1-E113A1244182",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22",
+        "F4725F9D-7BCB-4C03-A31C-5D5AF8C42B22"
+      ]
+    }
+  ],
+  "current_arrangement": "911D67D2-6851-4BBD-950D-D1139C67BD3E"
+}

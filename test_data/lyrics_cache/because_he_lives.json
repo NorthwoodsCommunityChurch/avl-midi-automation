@@ -1,0 +1,150 @@
+{
+  "song_name": "Because He Lives",
+  "pro7_uuid": "4689DC1F-E670-491E-87B3-1D1DF80F5A67",
+  "groups": [
+    {
+      "uuid": "C9B6DA13-2FD4-4FB6-84D1-3912B890084F",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "God sent His Son \nthey called Him Jesus",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He came to love \nheal and forgive",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He bled and died \nto buy my pardon",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "An empty grave \nis there to prove",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "My Savior lives",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "72EEADEE-F4E6-41E8-89DD-0058A7965B9B",
+      "name": "Chorus",
+      "slides": [
+        {
+          "text": "Because He lives \nI can face tomorrow",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Because He lives \nall fear is gone",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Because I know \nHe holds the future",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And life is worth the living\nJust because He lives",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "155CECAD-910C-4FB9-AF0E-92EF55658BE4",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "How sweet to hold our newborn baby\nAnd feel the pride and joy he gives",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "But greater still the calm assurance\nThis child can face uncertain days",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Because Christ lives",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "7FD9F020-E0C6-4687-BF8C-037D5CA32F85",
+      "name": "Verse 3",
+      "slides": [
+        {
+          "text": "And then one day \nI'll cross that river",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I'll fight life's final war with pain",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And then as death \ngives way to victory",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I'll see the lights of glory\nAnd I'll know He reigns",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "44C8121A-E552-4E09-92DE-704256E19D8C",
+      "name": "Tag",
+      "slides": [
+        {
+          "text": "And life is worth the living\nJust because He lives",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "81C1CEFB-936D-4FF7-809A-DAEA49CD3DDA",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "C829E488-BC0C-46CD-8404-747C7A3F87F4",
+      "group_uuids": [
+        "81C1CEFB-936D-4FF7-809A-DAEA49CD3DDA",
+        "C9B6DA13-2FD4-4FB6-84D1-3912B890084F",
+        "72EEADEE-F4E6-41E8-89DD-0058A7965B9B",
+        "81C1CEFB-936D-4FF7-809A-DAEA49CD3DDA",
+        "7FD9F020-E0C6-4687-BF8C-037D5CA32F85",
+        "72EEADEE-F4E6-41E8-89DD-0058A7965B9B",
+        "72EEADEE-F4E6-41E8-89DD-0058A7965B9B",
+        "81C1CEFB-936D-4FF7-809A-DAEA49CD3DDA",
+        "81C1CEFB-936D-4FF7-809A-DAEA49CD3DDA"
+      ]
+    }
+  ],
+  "current_arrangement": "C829E488-BC0C-46CD-8404-747C7A3F87F4"
+}

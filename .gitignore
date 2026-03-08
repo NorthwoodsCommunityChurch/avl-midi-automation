@@ -1,0 +1,53 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserdata
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.moved-aside
+xcuserdata/
+
+# SPM
+.build/
+.swiftpm/
+Package.resolved
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+test_data/.venv/
+
+# macOS
+.DS_Store
+._*
+
+# Audio/video/project files (large)
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.als
+*.mid
+*.midi
+Here In Your House/
+MIDI Templates/
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Claude
+.claude/
+
+# Environment
+.env
+
+# Build artifacts
+*.zip
+*.dmg
+*.app

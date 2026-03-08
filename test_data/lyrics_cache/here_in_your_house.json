@@ -1,0 +1,193 @@
+{
+  "song_name": "Here In Your House",
+  "pro7_uuid": "73675E8A-27DF-47F6-A050-98200567F640",
+  "groups": [
+    {
+      "uuid": "D9C9E2FD-488B-47CA-A366-0A7E1B3B1689",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "There's an echoing in the Spirit",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "If you listen closely you'll hear it",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh what a sound as broken shackles hit the floor",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "There's a symphony in the making",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "There is freedom here for the taking",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh what a sound as broken people are restored",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh what a sound of Your people singing",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "AF28E1A8-353D-4CC6-9BA3-408557057BD4",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "Here in Your house let Your praise be loud",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Here in Your house let Your joy break out",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "As our voices fill the room do what only You can do",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Here in Your house we're gonna worship You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "DE7A7BCC-F0A3-49D7-A6A7-A546815F62CB",
+      "name": "Tag",
+      "slides": [
+        {
+          "text": "We\u2019re gonna worship You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "D18F5B8E-9A5D-4F7B-8506-5F65FB7993F9",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "There's a sound that spans generations",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "It's the same no matter the language",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh what a sound as we unite to praise the Lord",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh what a sound of Your people singing",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "E998E7B2-E269-469F-9E6B-3F480E159B86",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "Surely the Lord is Surely the Lord is in this place",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Shout if you wanna Shout if you wanna give Him thanks",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Surely the Lord is Surely the Lord is in this place",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Every blood-bought saint come and praise His name",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "FC33D78A-605A-4B39-8EC7-32E643FE080C",
+      "name": "Ending",
+      "slides": [
+        {
+          "text": "We're gonna worship You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "D06D8474-2AB9-455B-9B6F-801AA45FEC9D",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "57FEF8A9-FE13-4900-84E7-05F6324D6B77",
+      "name": "Title",
+      "slides": [
+        {
+          "text": "",
+          "label": "235 Animate In.mov",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "528ADB9B-743A-450A-A7B2-644EE8A2F77B",
+      "group_uuids": [
+        "D06D8474-2AB9-455B-9B6F-801AA45FEC9D",
+        "D9C9E2FD-488B-47CA-A366-0A7E1B3B1689",
+        "AF28E1A8-353D-4CC6-9BA3-408557057BD4",
+        "D06D8474-2AB9-455B-9B6F-801AA45FEC9D",
+        "D18F5B8E-9A5D-4F7B-8506-5F65FB7993F9",
+        "AF28E1A8-353D-4CC6-9BA3-408557057BD4",
+        "D06D8474-2AB9-455B-9B6F-801AA45FEC9D",
+        "E998E7B2-E269-469F-9E6B-3F480E159B86",
+        "E998E7B2-E269-469F-9E6B-3F480E159B86",
+        "E998E7B2-E269-469F-9E6B-3F480E159B86",
+        "D06D8474-2AB9-455B-9B6F-801AA45FEC9D",
+        "AF28E1A8-353D-4CC6-9BA3-408557057BD4",
+        "D06D8474-2AB9-455B-9B6F-801AA45FEC9D",
+        "DE7A7BCC-F0A3-49D7-A6A7-A546815F62CB",
+        "D06D8474-2AB9-455B-9B6F-801AA45FEC9D"
+      ]
+    }
+  ],
+  "current_arrangement": ""
+}

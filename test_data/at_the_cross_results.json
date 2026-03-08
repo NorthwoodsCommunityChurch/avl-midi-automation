@@ -1,0 +1,312 @@
+{
+  "song_name": "At The Cross",
+  "bpm": 73.0,
+  "offset": 5.0,
+  "model": "medium",
+  "results": [
+    {
+      "position": 1,
+      "gt_slide": 1,
+      "gt_time": 0.822,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 1",
+      "status": "MISSED"
+    },
+    {
+      "position": 2,
+      "gt_slide": 3,
+      "gt_time": 15.923,
+      "al_time": 40.443,
+      "delta": 19.52,
+      "confidence": 1.0,
+      "gt_name": "Slide 2",
+      "status": "BAD"
+    },
+    {
+      "position": 3,
+      "gt_slide": 3,
+      "gt_time": 26.507,
+      "al_time": 62.163,
+      "delta": 30.656,
+      "confidence": 1.0,
+      "gt_name": "Slide 3",
+      "status": "BAD"
+    },
+    {
+      "position": 4,
+      "gt_slide": 4,
+      "gt_time": 40.533,
+      "al_time": 63.383,
+      "delta": 17.85,
+      "confidence": 1.0,
+      "gt_name": "Slide 4",
+      "status": "BAD"
+    },
+    {
+      "position": 5,
+      "gt_slide": 5,
+      "gt_time": 58.767,
+      "al_time": 62.107,
+      "delta": -1.66,
+      "confidence": 1.0,
+      "gt_name": "Slide 5",
+      "status": "OK"
+    },
+    {
+      "position": 6,
+      "gt_slide": 6,
+      "gt_time": 66.781,
+      "al_time": 68.247,
+      "delta": -3.534,
+      "confidence": 1.0,
+      "gt_name": "Slide 6",
+      "status": "POOR"
+    },
+    {
+      "position": 7,
+      "gt_slide": 7,
+      "gt_time": 72.804,
+      "al_time": 74.547,
+      "delta": -3.257,
+      "confidence": 1.0,
+      "gt_name": "Slide 7",
+      "status": "POOR"
+    },
+    {
+      "position": 8,
+      "gt_slide": 8,
+      "gt_time": 79.854,
+      "al_time": 81.147,
+      "delta": -3.707,
+      "confidence": 1.0,
+      "gt_name": "Slide 8",
+      "status": "POOR"
+    },
+    {
+      "position": 9,
+      "gt_slide": 9,
+      "gt_time": 85.984,
+      "al_time": 80.984,
+      "delta": -10.0,
+      "confidence": 1.0,
+      "gt_name": "Slide 9",
+      "status": "BAD"
+    },
+    {
+      "position": 10,
+      "gt_slide": 10,
+      "gt_time": 88.714,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 10",
+      "status": "MISSED"
+    },
+    {
+      "position": 11,
+      "gt_slide": 11,
+      "gt_time": 95.959,
+      "al_time": 129.019,
+      "delta": 28.06,
+      "confidence": 1.0,
+      "gt_name": "Slide 11",
+      "status": "BAD"
+    },
+    {
+      "position": 12,
+      "gt_slide": 12,
+      "gt_time": 106.233,
+      "al_time": 134.779,
+      "delta": 23.546,
+      "confidence": 1.0,
+      "gt_name": "Slide 12",
+      "status": "BAD"
+    },
+    {
+      "position": 13,
+      "gt_slide": 13,
+      "gt_time": 119.384,
+      "al_time": 139.859,
+      "delta": 15.475,
+      "confidence": 1.0,
+      "gt_name": "Slide 13",
+      "status": "BAD"
+    },
+    {
+      "position": 14,
+      "gt_slide": 14,
+      "gt_time": 134.904,
+      "al_time": 136.904,
+      "delta": -3.0,
+      "confidence": 1.0,
+      "gt_name": "Slide 14",
+      "status": "POOR"
+    },
+    {
+      "position": 15,
+      "gt_slide": 15,
+      "gt_time": 142.234,
+      "al_time": 143.904,
+      "delta": -3.33,
+      "confidence": 1.0,
+      "gt_name": "Slide 15",
+      "status": "POOR"
+    },
+    {
+      "position": 16,
+      "gt_slide": 17,
+      "gt_time": 148.356,
+      "al_time": 149.564,
+      "delta": -3.792,
+      "confidence": 1.0,
+      "gt_name": "Slide 16",
+      "status": "POOR"
+    },
+    {
+      "position": 17,
+      "gt_slide": 17,
+      "gt_time": 155.414,
+      "al_time": 156.764,
+      "delta": -3.65,
+      "confidence": 1.0,
+      "gt_name": "Slide 17",
+      "status": "POOR"
+    },
+    {
+      "position": 18,
+      "gt_slide": 18,
+      "gt_time": 161.994,
+      "al_time": 163.554,
+      "delta": -3.44,
+      "confidence": 1.0,
+      "gt_name": "Slide 18",
+      "status": "POOR"
+    },
+    {
+      "position": 19,
+      "gt_slide": 19,
+      "gt_time": 169.464,
+      "al_time": 170.894,
+      "delta": -3.57,
+      "confidence": 1.0,
+      "gt_name": "Slide 19",
+      "status": "POOR"
+    },
+    {
+      "position": 20,
+      "gt_slide": 20,
+      "gt_time": 175.764,
+      "al_time": 177.374,
+      "delta": -3.39,
+      "confidence": 1.0,
+      "gt_name": "Slide 20",
+      "status": "POOR"
+    },
+    {
+      "position": 21,
+      "gt_slide": 22,
+      "gt_time": 182.727,
+      "al_time": 184.114,
+      "delta": -3.613,
+      "confidence": 1.0,
+      "gt_name": "Slide 21",
+      "status": "POOR"
+    },
+    {
+      "position": 22,
+      "gt_slide": 22,
+      "gt_time": 188.425,
+      "al_time": 190.445,
+      "delta": -2.98,
+      "confidence": 1.0,
+      "gt_name": "Slide 22",
+      "status": "POOR"
+    },
+    {
+      "position": 23,
+      "gt_slide": 23,
+      "gt_time": 194.895,
+      "al_time": 196.425,
+      "delta": -3.47,
+      "confidence": 1.0,
+      "gt_name": "Slide 23",
+      "status": "POOR"
+    },
+    {
+      "position": 24,
+      "gt_slide": 24,
+      "gt_time": 201.099,
+      "al_time": 202.765,
+      "delta": -3.334,
+      "confidence": 1.0,
+      "gt_name": "Slide 24",
+      "status": "POOR"
+    },
+    {
+      "position": 25,
+      "gt_slide": 25,
+      "gt_time": 207.969,
+      "al_time": 209.405,
+      "delta": -3.564,
+      "confidence": 1.0,
+      "gt_name": "Slide 25",
+      "status": "POOR"
+    },
+    {
+      "position": 26,
+      "gt_slide": 26,
+      "gt_time": 213.939,
+      "al_time": 208.939,
+      "delta": -10.0,
+      "confidence": 1.0,
+      "gt_name": "Slide 26",
+      "status": "BAD"
+    },
+    {
+      "position": 27,
+      "gt_slide": 27,
+      "gt_time": 221.096,
+      "al_time": 220.176,
+      "delta": -5.92,
+      "confidence": 1.0,
+      "gt_name": "Slide 27",
+      "status": "BAD"
+    },
+    {
+      "position": 28,
+      "gt_slide": 28,
+      "gt_time": 223.639,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 28",
+      "status": "MISSED"
+    },
+    {
+      "position": 29,
+      "gt_slide": 29,
+      "gt_time": 247.521,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 29",
+      "status": "MISSED"
+    }
+  ],
+  "summary": {
+    "ground_truth_slides": 29,
+    "alignment_slides": 29,
+    "compared": 29,
+    "matched": 25,
+    "missed": 4,
+    "avg_delta": 8.573,
+    "max_delta": 30.656,
+    "median_delta": 3.613,
+    "within_0.5s": 0,
+    "within_1s": 0,
+    "within_2s": 1,
+    "within_5s": 16
+  }
+}

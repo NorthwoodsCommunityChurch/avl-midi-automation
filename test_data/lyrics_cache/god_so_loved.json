@@ -1,0 +1,285 @@
+{
+  "song_name": "God So Loved",
+  "pro7_uuid": "218B096B-5F77-43BF-869B-875BFFA57F2F",
+  "groups": [
+    {
+      "uuid": "20C8708B-9163-4426-9682-9DD9E201CE2E",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "Come all you weary\nCome all you thirsty",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Come to the well \nthat never runs dry",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Drink of the water\nCome and thirst no more",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "66B959FC-F8FE-4C3D-885F-DBCC4A1E1496",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "Come all you sinners\nCome find His mercy",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Come to the table \nHe will satisfy",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Taste of His goodness\nFind what you're looking for",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "651C10F7-37D7-443D-AF7A-5611D47C362D",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "For God so loved \nThe world that He gave us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "His one and only \nSon to save us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Whoever believes in Him \nwill live forever",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "A4063C73-14D7-4C68-B5F4-072F442F059F",
+      "name": "Verse 3",
+      "slides": [
+        {
+          "text": "Bring all your failures\nBring your addictions",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Come lay them down \nat the foot of the cross",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Jesus is waiting there\nWith open arms",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "DD152DD8-859F-4EB4-9317-83016740707B",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "07FE90ED-5709-412C-BB3A-CCC7EA694017",
+      "name": "Title",
+      "slides": [
+        {
+          "text": "",
+          "label": "235 Animate In.mov",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "36FB6850-1B8A-41F4-B01F-4FE19201EA6E",
+      "name": "Chorus 2",
+      "slides": [
+        {
+          "text": "For God so loved \nThe world that He gave us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "His one and only Son to save us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Whoever believes in Him \nwill live forever",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The power of hell forever defeated",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Now it is well \nI'm walking in freedom",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "For God so loved God so loved the world",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "1879D0ED-B961-40BB-A4A2-66FFCB203AC2",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "Praise God praise God\nFrom whom all blessings flow",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Praise Him praise Him\nFor the wonders of His love",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "BD07B15F-18C8-465F-A577-D5571C8836CD",
+      "name": "Chorus 3",
+      "slides": [
+        {
+          "text": "For God so loved \nthe world that He gave us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "His one and only Son to save",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "82588EF4-0960-4F25-920A-E31866C12620",
+      "name": "Verse 4",
+      "slides": [
+        {
+          "text": "Bring all your failures\nBring your addictions",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Come lay them down \nat the foot of the cross",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Jesus is waiting\nGod so loved the world",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "90EE1796-0DC6-40E3-94DA-DA07173A7216",
+      "name": "Chorus 5",
+      "slides": [
+        {
+          "text": "For God so loved \nThe world that He gave us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "His one and only \nSon to save",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "A3433947-02A6-4FAB-A478-6214721A3650",
+      "name": "Chorus 6",
+      "slides": [
+        {
+          "text": "The power of hell forever defeated",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Now it is well \nI'm walking in freedom",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "For God so loved God so loved the world",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "6A8A86E3-AB7E-4A6D-8BAE-9BC9134F616A",
+      "group_uuids": [
+        "DD152DD8-859F-4EB4-9317-83016740707B",
+        "20C8708B-9163-4426-9682-9DD9E201CE2E",
+        "DD152DD8-859F-4EB4-9317-83016740707B",
+        "66B959FC-F8FE-4C3D-885F-DBCC4A1E1496",
+        "DD152DD8-859F-4EB4-9317-83016740707B",
+        "651C10F7-37D7-443D-AF7A-5611D47C362D",
+        "DD152DD8-859F-4EB4-9317-83016740707B",
+        "A4063C73-14D7-4C68-B5F4-072F442F059F",
+        "36FB6850-1B8A-41F4-B01F-4FE19201EA6E",
+        "1879D0ED-B961-40BB-A4A2-66FFCB203AC2",
+        "1879D0ED-B961-40BB-A4A2-66FFCB203AC2",
+        "90EE1796-0DC6-40E3-94DA-DA07173A7216",
+        "651C10F7-37D7-443D-AF7A-5611D47C362D",
+        "A3433947-02A6-4FAB-A478-6214721A3650",
+        "DD152DD8-859F-4EB4-9317-83016740707B",
+        "82588EF4-0960-4F25-920A-E31866C12620",
+        "DD152DD8-859F-4EB4-9317-83016740707B"
+      ]
+    },
+    {
+      "name": "MIDI (Cut)",
+      "uuid": "E63D467E-5FDE-4979-8EF6-736315AA6224",
+      "group_uuids": [
+        "DD152DD8-859F-4EB4-9317-83016740707B",
+        "20C8708B-9163-4426-9682-9DD9E201CE2E",
+        "DD152DD8-859F-4EB4-9317-83016740707B",
+        "66B959FC-F8FE-4C3D-885F-DBCC4A1E1496",
+        "DD152DD8-859F-4EB4-9317-83016740707B",
+        "651C10F7-37D7-443D-AF7A-5611D47C362D",
+        "DD152DD8-859F-4EB4-9317-83016740707B",
+        "A4063C73-14D7-4C68-B5F4-072F442F059F",
+        "36FB6850-1B8A-41F4-B01F-4FE19201EA6E",
+        "1879D0ED-B961-40BB-A4A2-66FFCB203AC2",
+        "1879D0ED-B961-40BB-A4A2-66FFCB203AC2",
+        "90EE1796-0DC6-40E3-94DA-DA07173A7216",
+        "651C10F7-37D7-443D-AF7A-5611D47C362D",
+        "A3433947-02A6-4FAB-A478-6214721A3650",
+        "DD152DD8-859F-4EB4-9317-83016740707B"
+      ]
+    }
+  ],
+  "current_arrangement": "6A8A86E3-AB7E-4A6D-8BAE-9BC9134F616A"
+}

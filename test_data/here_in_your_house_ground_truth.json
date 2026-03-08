@@ -1,0 +1,831 @@
+{
+  "source_file": "Here In Your House/Here In Your House F 181.5 Project/Here In Your House C 181.5 MIDI.als",
+  "bpm": 181.5,
+  "tempo_automation": [],
+  "total_triggers": 45,
+  "slide_triggers": 43,
+  "section_markers": [
+    {
+      "beat": 0.0,
+      "seconds": 0.0,
+      "name": "Count Off"
+    },
+    {
+      "beat": 12.0,
+      "seconds": 3.967,
+      "name": "Intro"
+    },
+    {
+      "beat": 36.0,
+      "seconds": 11.901,
+      "name": "Verse"
+    },
+    {
+      "beat": 84.0,
+      "seconds": 27.769,
+      "name": "Verse"
+    },
+    {
+      "beat": 132.0,
+      "seconds": 43.636,
+      "name": "Tag"
+    },
+    {
+      "beat": 150.0,
+      "seconds": 49.587,
+      "name": "Chorus"
+    },
+    {
+      "beat": 198.0,
+      "seconds": 65.455,
+      "name": "Post Chorus"
+    },
+    {
+      "beat": 234.0,
+      "seconds": 77.355,
+      "name": "Turnaround"
+    },
+    {
+      "beat": 258.0,
+      "seconds": 85.289,
+      "name": "Verse"
+    },
+    {
+      "beat": 306.0,
+      "seconds": 101.157,
+      "name": "Tag"
+    },
+    {
+      "beat": 324.0,
+      "seconds": 107.107,
+      "name": "Chorus"
+    },
+    {
+      "beat": 372.0,
+      "seconds": 122.975,
+      "name": "Post Chorus"
+    },
+    {
+      "beat": 408.0,
+      "seconds": 134.876,
+      "name": "Turnaround"
+    },
+    {
+      "beat": 432.0,
+      "seconds": 142.81,
+      "name": "Bridge"
+    },
+    {
+      "beat": 480.0,
+      "seconds": 158.678,
+      "name": "Bridge"
+    },
+    {
+      "beat": 528.0,
+      "seconds": 174.545,
+      "name": "Bridge"
+    },
+    {
+      "beat": 576.0,
+      "seconds": 190.413,
+      "name": "Instrumental"
+    },
+    {
+      "beat": 624.0,
+      "seconds": 206.281,
+      "name": "Chorus"
+    },
+    {
+      "beat": 672.0,
+      "seconds": 222.149,
+      "name": "Post Chorus"
+    },
+    {
+      "beat": 708.0,
+      "seconds": 234.05,
+      "name": "Outro"
+    },
+    {
+      "beat": 732.0,
+      "seconds": 241.983,
+      "name": "Outro"
+    },
+    {
+      "beat": 756.0,
+      "seconds": 249.917,
+      "name": "Ending"
+    }
+  ],
+  "all_triggers": [
+    {
+      "note": 17,
+      "note_name": "Select Playlist",
+      "velocity": 1,
+      "beat": 0.0,
+      "seconds": 0.0,
+      "duration_beats": 0.25,
+      "track_name": "Select Playlist",
+      "clip_name": "Select Playlist 1"
+    },
+    {
+      "note": 18,
+      "note_name": "Select Item",
+      "velocity": 5,
+      "beat": 0.5,
+      "seconds": 0.165,
+      "duration_beats": 0.25,
+      "track_name": "Select Playlist Item",
+      "clip_name": "Select Playlist Item 5"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 1,
+      "beat": 1.0,
+      "seconds": 0.331,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 1"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 3,
+      "beat": 31.5,
+      "seconds": 10.413,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 2"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 3,
+      "beat": 35.5,
+      "seconds": 11.736,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 2"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 3,
+      "beat": 44.179,
+      "seconds": 14.605,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 3"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 4,
+      "beat": 54.0,
+      "seconds": 17.851,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 4"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 5,
+      "beat": 78.755,
+      "seconds": 26.035,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 5"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 6,
+      "beat": 90.793,
+      "seconds": 30.014,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 6"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 7,
+      "beat": 102.0,
+      "seconds": 33.719,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 7"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 8,
+      "beat": 125.459,
+      "seconds": 41.474,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 8"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 9,
+      "beat": 141.902,
+      "seconds": 46.91,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 9"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 10,
+      "beat": 168.0,
+      "seconds": 55.537,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 10"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 11,
+      "beat": 192.0,
+      "seconds": 63.471,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 11"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 12,
+      "beat": 214.279,
+      "seconds": 70.836,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 12"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 13,
+      "beat": 236.664,
+      "seconds": 78.236,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 13"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 14,
+      "beat": 252.629,
+      "seconds": 83.514,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 14"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 15,
+      "beat": 264.637,
+      "seconds": 87.483,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 15"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 17,
+      "beat": 275.466,
+      "seconds": 91.063,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 16"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 17,
+      "beat": 299.031,
+      "seconds": 98.853,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 17"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 18,
+      "beat": 319.026,
+      "seconds": 105.463,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 18"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 19,
+      "beat": 340.534,
+      "seconds": 112.573,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 19"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 20,
+      "beat": 363.857,
+      "seconds": 120.283,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 20"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 22,
+      "beat": 388.541,
+      "seconds": 128.443,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 21"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 22,
+      "beat": 410.373,
+      "seconds": 135.661,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 22"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 23,
+      "beat": 427.102,
+      "seconds": 141.191,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 23"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 24,
+      "beat": 441.976,
+      "seconds": 146.108,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 24"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 25,
+      "beat": 453.424,
+      "seconds": 149.892,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 25"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 26,
+      "beat": 465.978,
+      "seconds": 154.042,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 26"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 27,
+      "beat": 479.016,
+      "seconds": 158.352,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 27"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 28,
+      "beat": 490.843,
+      "seconds": 162.262,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 28"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 29,
+      "beat": 502.127,
+      "seconds": 165.992,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 29"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 30,
+      "beat": 514.136,
+      "seconds": 169.962,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 30"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 31,
+      "beat": 522.934,
+      "seconds": 172.871,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 31"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 32,
+      "beat": 536.994,
+      "seconds": 177.519,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 32"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 33,
+      "beat": 549.979,
+      "seconds": 181.811,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 33"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 34,
+      "beat": 562.29,
+      "seconds": 185.881,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 34"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 35,
+      "beat": 580.807,
+      "seconds": 192.002,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 35"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 36,
+      "beat": 617.5,
+      "seconds": 204.132,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 36"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 37,
+      "beat": 641.748,
+      "seconds": 212.148,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 37"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 38,
+      "beat": 665.023,
+      "seconds": 219.842,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 38"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 39,
+      "beat": 689.041,
+      "seconds": 227.782,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 39"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 40,
+      "beat": 710.137,
+      "seconds": 234.756,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 40"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 41,
+      "beat": 747.654,
+      "seconds": 247.159,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 41"
+    },
+    {
+      "note": 19,
+      "note_name": "Trigger Slide",
+      "velocity": 42,
+      "beat": 758.266,
+      "seconds": 250.666,
+      "duration_beats": 0.25,
+      "track_name": "Trigger Slide",
+      "clip_name": "Slide 42"
+    }
+  ],
+  "slide_timing": [
+    {
+      "slide_number": 1,
+      "beat": 1.0,
+      "seconds": 0.331,
+      "clip_name": "Slide 1"
+    },
+    {
+      "slide_number": 3,
+      "beat": 31.5,
+      "seconds": 10.413,
+      "clip_name": "Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "beat": 35.5,
+      "seconds": 11.736,
+      "clip_name": "Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "beat": 44.179,
+      "seconds": 14.605,
+      "clip_name": "Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "beat": 54.0,
+      "seconds": 17.851,
+      "clip_name": "Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "beat": 78.755,
+      "seconds": 26.035,
+      "clip_name": "Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "beat": 90.793,
+      "seconds": 30.014,
+      "clip_name": "Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "beat": 102.0,
+      "seconds": 33.719,
+      "clip_name": "Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "beat": 125.459,
+      "seconds": 41.474,
+      "clip_name": "Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "beat": 141.902,
+      "seconds": 46.91,
+      "clip_name": "Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "beat": 168.0,
+      "seconds": 55.537,
+      "clip_name": "Slide 10"
+    },
+    {
+      "slide_number": 11,
+      "beat": 192.0,
+      "seconds": 63.471,
+      "clip_name": "Slide 11"
+    },
+    {
+      "slide_number": 12,
+      "beat": 214.279,
+      "seconds": 70.836,
+      "clip_name": "Slide 12"
+    },
+    {
+      "slide_number": 13,
+      "beat": 236.664,
+      "seconds": 78.236,
+      "clip_name": "Slide 13"
+    },
+    {
+      "slide_number": 14,
+      "beat": 252.629,
+      "seconds": 83.514,
+      "clip_name": "Slide 14"
+    },
+    {
+      "slide_number": 15,
+      "beat": 264.637,
+      "seconds": 87.483,
+      "clip_name": "Slide 15"
+    },
+    {
+      "slide_number": 17,
+      "beat": 275.466,
+      "seconds": 91.063,
+      "clip_name": "Slide 16"
+    },
+    {
+      "slide_number": 17,
+      "beat": 299.031,
+      "seconds": 98.853,
+      "clip_name": "Slide 17"
+    },
+    {
+      "slide_number": 18,
+      "beat": 319.026,
+      "seconds": 105.463,
+      "clip_name": "Slide 18"
+    },
+    {
+      "slide_number": 19,
+      "beat": 340.534,
+      "seconds": 112.573,
+      "clip_name": "Slide 19"
+    },
+    {
+      "slide_number": 20,
+      "beat": 363.857,
+      "seconds": 120.283,
+      "clip_name": "Slide 20"
+    },
+    {
+      "slide_number": 22,
+      "beat": 388.541,
+      "seconds": 128.443,
+      "clip_name": "Slide 21"
+    },
+    {
+      "slide_number": 22,
+      "beat": 410.373,
+      "seconds": 135.661,
+      "clip_name": "Slide 22"
+    },
+    {
+      "slide_number": 23,
+      "beat": 427.102,
+      "seconds": 141.191,
+      "clip_name": "Slide 23"
+    },
+    {
+      "slide_number": 24,
+      "beat": 441.976,
+      "seconds": 146.108,
+      "clip_name": "Slide 24"
+    },
+    {
+      "slide_number": 25,
+      "beat": 453.424,
+      "seconds": 149.892,
+      "clip_name": "Slide 25"
+    },
+    {
+      "slide_number": 26,
+      "beat": 465.978,
+      "seconds": 154.042,
+      "clip_name": "Slide 26"
+    },
+    {
+      "slide_number": 27,
+      "beat": 479.016,
+      "seconds": 158.352,
+      "clip_name": "Slide 27"
+    },
+    {
+      "slide_number": 28,
+      "beat": 490.843,
+      "seconds": 162.262,
+      "clip_name": "Slide 28"
+    },
+    {
+      "slide_number": 29,
+      "beat": 502.127,
+      "seconds": 165.992,
+      "clip_name": "Slide 29"
+    },
+    {
+      "slide_number": 30,
+      "beat": 514.136,
+      "seconds": 169.962,
+      "clip_name": "Slide 30"
+    },
+    {
+      "slide_number": 31,
+      "beat": 522.934,
+      "seconds": 172.871,
+      "clip_name": "Slide 31"
+    },
+    {
+      "slide_number": 32,
+      "beat": 536.994,
+      "seconds": 177.519,
+      "clip_name": "Slide 32"
+    },
+    {
+      "slide_number": 33,
+      "beat": 549.979,
+      "seconds": 181.811,
+      "clip_name": "Slide 33"
+    },
+    {
+      "slide_number": 34,
+      "beat": 562.29,
+      "seconds": 185.881,
+      "clip_name": "Slide 34"
+    },
+    {
+      "slide_number": 35,
+      "beat": 580.807,
+      "seconds": 192.002,
+      "clip_name": "Slide 35"
+    },
+    {
+      "slide_number": 36,
+      "beat": 617.5,
+      "seconds": 204.132,
+      "clip_name": "Slide 36"
+    },
+    {
+      "slide_number": 37,
+      "beat": 641.748,
+      "seconds": 212.148,
+      "clip_name": "Slide 37"
+    },
+    {
+      "slide_number": 38,
+      "beat": 665.023,
+      "seconds": 219.842,
+      "clip_name": "Slide 38"
+    },
+    {
+      "slide_number": 39,
+      "beat": 689.041,
+      "seconds": 227.782,
+      "clip_name": "Slide 39"
+    },
+    {
+      "slide_number": 40,
+      "beat": 710.137,
+      "seconds": 234.756,
+      "clip_name": "Slide 40"
+    },
+    {
+      "slide_number": 41,
+      "beat": 747.654,
+      "seconds": 247.159,
+      "clip_name": "Slide 41"
+    },
+    {
+      "slide_number": 42,
+      "beat": 758.266,
+      "seconds": 250.666,
+      "clip_name": "Slide 42"
+    }
+  ]
+}

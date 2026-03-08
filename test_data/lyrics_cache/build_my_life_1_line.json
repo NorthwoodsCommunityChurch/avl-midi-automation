@@ -1,0 +1,188 @@
+{
+  "song_name": "Build My Life 1 Line",
+  "pro7_uuid": "AE446E09-46A9-46E2-A927-44F5604C472C",
+  "groups": [
+    {
+      "uuid": "A0A03E4E-62B2-472D-AA0D-56D55608F68D",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "Worthy of ev'ry song we could ever sing",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Worthy of all the praise we could ever bring",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Worthy of ev'ry breath we could ever breathe",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "We live for You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "FD7660DE-450B-4CB0-9C87-612D7D04F17D",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "Jesus the name above ev'ry other name",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Jesus the only One who could ever save",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Worthy of ev'ry breath we could ever breathe",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "We live for You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "We live for You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "73ECB856-E678-4116-916A-F157B858F12C",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "Holy there is no one like You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "There is none beside You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Open up my eyes in wonder and show me who You are",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And fill me with Your heart",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And lead me in Your love to those around me",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "78E97A6A-B648-4A47-A252-C93BB590FCB9",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "I will build my life upon Your love",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "It is a firm foundation",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I will put my trust in You alone",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And I will not be shaken",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "1967536B-737D-4BBE-A6FB-7C78911579C6",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "F065F9CD-0825-4610-8C3C-92FE1DCF2187",
+      "name": "Title",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "D294C66E-E932-4405-9DC1-17B06B4AFAC9",
+      "group_uuids": [
+        "F065F9CD-0825-4610-8C3C-92FE1DCF2187",
+        "A0A03E4E-62B2-472D-AA0D-56D55608F68D",
+        "1967536B-737D-4BBE-A6FB-7C78911579C6",
+        "FD7660DE-450B-4CB0-9C87-612D7D04F17D",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "1967536B-737D-4BBE-A6FB-7C78911579C6",
+        "A0A03E4E-62B2-472D-AA0D-56D55608F68D",
+        "FD7660DE-450B-4CB0-9C87-612D7D04F17D",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "1967536B-737D-4BBE-A6FB-7C78911579C6",
+        "78E97A6A-B648-4A47-A252-C93BB590FCB9",
+        "78E97A6A-B648-4A47-A252-C93BB590FCB9",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "78E97A6A-B648-4A47-A252-C93BB590FCB9",
+        "1967536B-737D-4BBE-A6FB-7C78911579C6"
+      ]
+    },
+    {
+      "name": "Healing Place",
+      "uuid": "FFB46045-FCB5-431E-A87E-69C5B7FCF240",
+      "group_uuids": [
+        "F065F9CD-0825-4610-8C3C-92FE1DCF2187",
+        "A0A03E4E-62B2-472D-AA0D-56D55608F68D",
+        "1967536B-737D-4BBE-A6FB-7C78911579C6",
+        "FD7660DE-450B-4CB0-9C87-612D7D04F17D",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "1967536B-737D-4BBE-A6FB-7C78911579C6",
+        "78E97A6A-B648-4A47-A252-C93BB590FCB9",
+        "78E97A6A-B648-4A47-A252-C93BB590FCB9",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "73ECB856-E678-4116-916A-F157B858F12C",
+        "78E97A6A-B648-4A47-A252-C93BB590FCB9",
+        "1967536B-737D-4BBE-A6FB-7C78911579C6"
+      ]
+    }
+  ],
+  "current_arrangement": "D294C66E-E932-4405-9DC1-17B06B4AFAC9"
+}

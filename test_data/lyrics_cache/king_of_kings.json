@@ -1,0 +1,163 @@
+{
+  "song_name": "King of Kings",
+  "pro7_uuid": "08FF9D4A-3188-4B5E-BB33-93687FA59A56",
+  "groups": [
+    {
+      "uuid": "F3EB7F65-D38D-4713-BD30-A79B1D46286C",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "In the darkness, we were waiting\nWithout hope, without light",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "'Til from Heaven You came running\nThere was mercy in Your eyes",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "To fulfill the law and prophets\nTo a virgin came the Word",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "From a throne of endless glory\nTo a cradle in the dirt",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "081EEC09-4E37-434E-A7AC-5B43C2EDEDF1",
+      "name": "Tag",
+      "slides": [
+        {
+          "text": "Praise forever to the King of Kings",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "2BA31315-A500-40DE-ACE5-89EEF360E9E1",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "Praise the Father, praise the Son\nPraise the Spirit, three in one",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "God of glory, Majesty\nPraise forever to the King of Kings",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "B9EC9D8E-5587-47AB-AF85-40BDF6D74320",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "To reveal the kingdom coming\nAnd to reconcile the lost",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "To redeem the whole creation\nYou did not despise the cross",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "For even in Your suffering\nYou saw to the other side",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Knowing this was our salvation\nJesus for our sake You died",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "9CAABAFD-B5C4-4247-9A3E-65972466924A",
+      "name": "Bridge 1",
+      "slides": [
+        {
+          "text": "And the morning that You rose\nAll of Heaven held its breath",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "'Til that stone was moved for good\nFor the Lamb had conquered death",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And the dead rose from their tombs\nAnd the angels stood in awe",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "For the souls of all who'd come\nTo the Father are restored",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And the church of Christ was born\nThen the Spirit lit the flame",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Now this gospel truth of old\nShall not kneel, shall not faint",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "By His blood and in His name\nIn His freedom I am free",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "For the love of Jesus Christ\nWho has resurrected me",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "695F70D2-8FDD-4BEB-8716-524F64E4A42F",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "62B49854-B42F-4E05-A1C0-A2AC7ACF1637",
+      "group_uuids": [
+        "695F70D2-8FDD-4BEB-8716-524F64E4A42F",
+        "F3EB7F65-D38D-4713-BD30-A79B1D46286C",
+        "2BA31315-A500-40DE-ACE5-89EEF360E9E1",
+        "B9EC9D8E-5587-47AB-AF85-40BDF6D74320",
+        "2BA31315-A500-40DE-ACE5-89EEF360E9E1",
+        "695F70D2-8FDD-4BEB-8716-524F64E4A42F",
+        "9CAABAFD-B5C4-4247-9A3E-65972466924A",
+        "695F70D2-8FDD-4BEB-8716-524F64E4A42F",
+        "2BA31315-A500-40DE-ACE5-89EEF360E9E1",
+        "081EEC09-4E37-434E-A7AC-5B43C2EDEDF1",
+        "695F70D2-8FDD-4BEB-8716-524F64E4A42F",
+        "695F70D2-8FDD-4BEB-8716-524F64E4A42F"
+      ]
+    }
+  ],
+  "current_arrangement": "62B49854-B42F-4E05-A1C0-A2AC7ACF1637"
+}

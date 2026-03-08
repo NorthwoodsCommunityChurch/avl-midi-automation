@@ -1,0 +1,236 @@
+{
+  "song_name": "Good Plans",
+  "pro7_uuid": "7D8F9601-1309-4B1C-AC4A-BD16AC2F2384",
+  "groups": [
+    {
+      "uuid": "D73E3450-E7B0-47EA-9534-962FE1FDA30E",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "The Lord is my shepherd\nAnd He is everything I need",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "So I will not worry\nI will not fear the enemy",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He said that He loves me\nHe said that He\u2019s with me even though",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I walk through the valley\nOf shadow and death and still I know",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "2BC6A0D3-45E3-41F5-9C06-D2A605C5835F",
+      "name": "Chorus",
+      "slides": [
+        {
+          "text": "He has good plans\nHe has good plans for me",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "So I will take heart\nIn deserts and gardens",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He has good plans\nHe has good plans for me",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "If I know my Father\nI know my Father has good plans",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "C29831D4-A0DE-43AF-BB63-25E3C4923C53",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "The Lord is my Savior\nSo why should I doubt my victory",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Why would I question\nThe rod and the staff that comforts me",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He quiets the waters\nHe quiets the storm inside of me",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "So what could be better\nThan walking with Him when I believe",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "B3C6911C-528C-4F4D-951A-52566787253B",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "Surely Your goodness and mercy\nWill follow after me",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "So fear will not find me\n\u2018Cause I\u2019ll be dwelling in the house of God",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "0C9B076E-2AF2-46B0-B81D-8F62D729151A",
+      "name": "Ending",
+      "slides": [
+        {
+          "text": "Good plans\nGood plans",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "If I know my Father\nI know my Father has good plans",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "34534440-2547-4587-8BEC-8A731FAE5FC5",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "91F3C6EF-0E73-4700-9A99-646D5E4266B4",
+      "name": "Tag",
+      "slides": [
+        {
+          "text": "Praise God from whom all blessings flow",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Praise God from whom all blessings flow",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Praise God from whom all blessings flow",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Praise Father, Son and Holy Ghost",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "6A412880-A6AC-4F8E-A63D-2EABB2A2378B",
+      "name": "Outro",
+      "slides": [
+        {
+          "text": "Praise God from whom all blessings flow",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Praise Him, all creatures here below",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Praise Him above, ye heavenly host",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Praise Father, Son and Holy Ghost",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Praise Father, Son and Holy Ghost",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "FC00EB24-454F-4BAF-9C63-6A1E63803BF6",
+      "group_uuids": [
+        "34534440-2547-4587-8BEC-8A731FAE5FC5",
+        "D73E3450-E7B0-47EA-9534-962FE1FDA30E",
+        "2BC6A0D3-45E3-41F5-9C06-D2A605C5835F",
+        "34534440-2547-4587-8BEC-8A731FAE5FC5",
+        "C29831D4-A0DE-43AF-BB63-25E3C4923C53",
+        "2BC6A0D3-45E3-41F5-9C06-D2A605C5835F",
+        "2BC6A0D3-45E3-41F5-9C06-D2A605C5835F",
+        "34534440-2547-4587-8BEC-8A731FAE5FC5",
+        "B3C6911C-528C-4F4D-951A-52566787253B",
+        "B3C6911C-528C-4F4D-951A-52566787253B",
+        "B3C6911C-528C-4F4D-951A-52566787253B",
+        "B3C6911C-528C-4F4D-951A-52566787253B",
+        "2BC6A0D3-45E3-41F5-9C06-D2A605C5835F",
+        "0C9B076E-2AF2-46B0-B81D-8F62D729151A",
+        "0C9B076E-2AF2-46B0-B81D-8F62D729151A",
+        "34534440-2547-4587-8BEC-8A731FAE5FC5",
+        "34534440-2547-4587-8BEC-8A731FAE5FC5"
+      ]
+    },
+    {
+      "name": "MIDI Doxology",
+      "uuid": "259B6562-4EAF-436D-984E-1A86A723F1DD",
+      "group_uuids": [
+        "34534440-2547-4587-8BEC-8A731FAE5FC5",
+        "6A412880-A6AC-4F8E-A63D-2EABB2A2378B",
+        "34534440-2547-4587-8BEC-8A731FAE5FC5",
+        "D73E3450-E7B0-47EA-9534-962FE1FDA30E",
+        "2BC6A0D3-45E3-41F5-9C06-D2A605C5835F",
+        "34534440-2547-4587-8BEC-8A731FAE5FC5",
+        "C29831D4-A0DE-43AF-BB63-25E3C4923C53",
+        "2BC6A0D3-45E3-41F5-9C06-D2A605C5835F",
+        "2BC6A0D3-45E3-41F5-9C06-D2A605C5835F",
+        "34534440-2547-4587-8BEC-8A731FAE5FC5",
+        "B3C6911C-528C-4F4D-951A-52566787253B",
+        "B3C6911C-528C-4F4D-951A-52566787253B",
+        "B3C6911C-528C-4F4D-951A-52566787253B",
+        "B3C6911C-528C-4F4D-951A-52566787253B",
+        "2BC6A0D3-45E3-41F5-9C06-D2A605C5835F",
+        "0C9B076E-2AF2-46B0-B81D-8F62D729151A",
+        "0C9B076E-2AF2-46B0-B81D-8F62D729151A",
+        "34534440-2547-4587-8BEC-8A731FAE5FC5",
+        "91F3C6EF-0E73-4700-9A99-646D5E4266B4",
+        "34534440-2547-4587-8BEC-8A731FAE5FC5"
+      ]
+    }
+  ],
+  "current_arrangement": ""
+}

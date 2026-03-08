@@ -1,0 +1,207 @@
+{
+  "song_name": "O Little Town Of Bethlehem",
+  "pro7_uuid": "BA5F0494-6DD9-4C1B-90B2-CDF2B4101D73",
+  "groups": [
+    {
+      "uuid": "D6789937-1BD6-4440-B60D-6029CFF544D3",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "40BD61F6-AEDB-41FE-B023-A45CD7F69DB1",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "O little town of Bethlehem",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "How still we see thee lie",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Above thy deep and dreamless sleep",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The silent stars go by",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Yet in thy dark streets shineth",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The everlasting light",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The hopes and fears of all the years",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Are met in thee tonight",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "79424AEF-701B-4BDA-9630-5175A72163EA",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "In thy dark streets shineth",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The everlasting light",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The hopes and fears of all the years",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Are met in thee tonight",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "DD6A24FC-E5A7-4D02-BBAC-0F594F9F6AD2",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "O holy Child of Bethlehem",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Descend to us we pray",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Cast out our sin and enter in",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Be born in us today",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "We hear the Christmas angels",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The great glad tidings tell",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "O come to us abide with us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Our Lord Emmanuel",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "C84ACCD7-9259-44F9-A2D8-07AD5301DB76",
+      "name": "Chorus 2",
+      "slides": [
+        {
+          "text": "We hear the Christmas angels",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "The great glad tidings tell",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "O come to us abide with us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Our Lord Emmanuel",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "28EFC119-4FA4-4422-8F53-815004CACFD5",
+      "name": "Tag",
+      "slides": [
+        {
+          "text": "O come to us abide with us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Our Lord Emmanuel",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "0AAA57B3-CCC9-46F5-844C-65897E8596C5",
+      "name": "Ending",
+      "slides": [
+        {
+          "text": "Emmanuel abide with us hmm\nEmmanuel",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "2A4A3846-659F-494C-A553-395C183F21E1",
+      "group_uuids": [
+        "D6789937-1BD6-4440-B60D-6029CFF544D3",
+        "40BD61F6-AEDB-41FE-B023-A45CD7F69DB1",
+        "79424AEF-701B-4BDA-9630-5175A72163EA",
+        "D6789937-1BD6-4440-B60D-6029CFF544D3",
+        "DD6A24FC-E5A7-4D02-BBAC-0F594F9F6AD2",
+        "C84ACCD7-9259-44F9-A2D8-07AD5301DB76",
+        "C84ACCD7-9259-44F9-A2D8-07AD5301DB76",
+        "28EFC119-4FA4-4422-8F53-815004CACFD5",
+        "D6789937-1BD6-4440-B60D-6029CFF544D3",
+        "D6789937-1BD6-4440-B60D-6029CFF544D3"
+      ]
+    }
+  ],
+  "current_arrangement": "2A4A3846-659F-494C-A553-395C183F21E1"
+}

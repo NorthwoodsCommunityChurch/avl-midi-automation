@@ -1,0 +1,331 @@
+{
+  "song_name": "Be Glad",
+  "pro7_uuid": "AB6BDFB1-8C80-412E-BF61-895089F81515",
+  "groups": [
+    {
+      "uuid": "2A872709-5DFE-4913-A23A-E500A5BAE2A7",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "Give thanks to the Lord",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "His love endures forever",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Give praise to the Lord",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Beside Him there's no other",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "DC3BE859-E586-4B5D-90EC-64EB28CCED40",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "This is the day the Lord has made",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I will rejoice and be glad in it",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "This is the day the Lord has made",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh I will rejoice and be glad in it",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He brought us from mourning to dancing\nFrom glory to glory",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "This is the day the Lord has made",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "B9876D4E-1197-4C8A-90B8-B2A329FEAC9C",
+      "name": "POST-CHORUS",
+      "slides": [
+        {
+          "text": "So what are we waiting for",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "La la la la la la",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Come on and praise the Lord",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "La la la la la la",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "C826EA8D-44D5-4676-9AC3-61950CC233DF",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "Hear the word of the Lord",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "There's freedom for the captives",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Good news to the poor",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And beauty for the ashes",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "0BDE8130-E4AB-4454-9EE7-9964832354C0",
+      "name": "Pre-Chorus",
+      "slides": [
+        {
+          "text": "So what are we waiting for",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "What are we waiting for",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "3F2EE2A1-54E2-45CC-87FE-A687F18AD2CF",
+      "name": "Post Chorus 2",
+      "slides": [
+        {
+          "text": "So what are we waiting for",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "La la la la la la",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Come on and praise the Lord",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "La la la la la la",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "What are we waiting for",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "La la la la la la",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Come on and praise the Lord",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh praise the Lord",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "FFA75978-E6B8-41A8-96C8-C387107FFF41",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "I live I live\nTo tell what the Lord has done",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I live to sing of my Savior's love",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I live because He is risen",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "BA5C8906-23AC-48FD-A99D-2C8BDCF0A4A2",
+      "name": "Tag",
+      "slides": [
+        {
+          "text": "La la la la la la la",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "AED5E271-9CF6-4ED6-9E63-5D81DAD195FF",
+      "name": "Tag 1",
+      "slides": [
+        {
+          "text": "La la la la la la la\nLa la la la la la la",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "1B460E07-2824-4A86-941D-8B14117B58E4",
+      "name": "Chorus 2",
+      "slides": [
+        {
+          "text": "This is the day the Lord has made",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I will rejoice and be glad in it",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "This is the day the Lord has made",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh I will rejoice and be glad in it",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "This is the day the Lord has made",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh I will rejoice and be glad in it",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "He brought us from mourning to dancing\nFrom glory to glory",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "from mourning to dancing\nFrom glory to glory",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": " from mourning to dancing\nFrom glory to glory",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "This is the day the Lord has made",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "91B04801-1C27-4996-B4A3-49B8B1808866",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "52259575-DD0A-45B6-968E-2C28119C1ABB",
+      "name": "Title",
+      "slides": [
+        {
+          "text": "",
+          "label": "235 Animate In.mov",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "0CC677D1-FE00-4671-B5D4-A43A8AB6BD11",
+      "group_uuids": [
+        "91B04801-1C27-4996-B4A3-49B8B1808866",
+        "2A872709-5DFE-4913-A23A-E500A5BAE2A7",
+        "2A872709-5DFE-4913-A23A-E500A5BAE2A7",
+        "91B04801-1C27-4996-B4A3-49B8B1808866",
+        "DC3BE859-E586-4B5D-90EC-64EB28CCED40",
+        "B9876D4E-1197-4C8A-90B8-B2A329FEAC9C",
+        "C826EA8D-44D5-4676-9AC3-61950CC233DF",
+        "91B04801-1C27-4996-B4A3-49B8B1808866",
+        "0BDE8130-E4AB-4454-9EE7-9964832354C0",
+        "DC3BE859-E586-4B5D-90EC-64EB28CCED40",
+        "3F2EE2A1-54E2-45CC-87FE-A687F18AD2CF",
+        "FFA75978-E6B8-41A8-96C8-C387107FFF41",
+        "BA5C8906-23AC-48FD-A99D-2C8BDCF0A4A2",
+        "FFA75978-E6B8-41A8-96C8-C387107FFF41",
+        "AED5E271-9CF6-4ED6-9E63-5D81DAD195FF",
+        "1B460E07-2824-4A86-941D-8B14117B58E4",
+        "3F2EE2A1-54E2-45CC-87FE-A687F18AD2CF",
+        "91B04801-1C27-4996-B4A3-49B8B1808866",
+        "91B04801-1C27-4996-B4A3-49B8B1808866"
+      ]
+    }
+  ],
+  "current_arrangement": "0CC677D1-FE00-4671-B5D4-A43A8AB6BD11"
+}

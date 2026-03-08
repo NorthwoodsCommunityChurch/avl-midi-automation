@@ -1,0 +1,175 @@
+{
+  "song_name": "Christ Be Magnified",
+  "pro7_uuid": "7578DF54-E5EF-439A-A043-E698978B3505",
+  "groups": [
+    {
+      "uuid": "E1744CDD-8E28-46DF-8F1B-C24BB14C04F1",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "Were creation suddenly articulate\nWith a thousand tongues to lift one cry",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Then from north to south and east to west\nWe'd hear Christ be magnified",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "53087686-17FA-4AC5-B7B2-59D5D7CE9157",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "Were the whole earth echoing His eminence\nHis name would burst from sea and sky",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "From rivers to the mountain tops\nWe'd hear Christ be magnified",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "CA7A1AE0-3D5B-4EC3-A463-F69FD3D5F51D",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "O Christ be magnified\nLet His praise arise",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Christ be magnified in me\nO Christ be magnified",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "From the altar of my life\nChrist be magnified in me",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "06EBA658-DF23-4438-9B6E-7CA3F24CF5D7",
+      "name": "Verse 3",
+      "slides": [
+        {
+          "text": "When ev'ry creature finds its inmost melody\nAnd ev'ry human heart its native cry",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "then in one enraptured hymn of praise\nWe'll sing Christ be magnified",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "DC10891F-601A-40B1-A6A9-B6F2E6D2D850",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "I won't bow to idols\nI'll stand strong and worship You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And if it puts me through the fire\nI'll rejoice 'cause You're there too",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I won't be formed by feelings\nI hold fast to what is true",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "If the cross brings transformation\nYou can hang me there with You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "3428E6C6-80FA-4895-BABC-F95A4F7D9F33",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "'Cause death is just the doorway\nInto resurrection life",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "If I join You in Your sufferings\nThen I'll join You when You rise",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "And when You return in glory\nWith all the angels and the saints",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "My heart will still be singing\nMy song will be the same",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "3EA310DC-7AD8-47DE-B88A-312C9BCBA3A0",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "777CA949-766A-4DE1-9EEA-D50D8EE10AD1",
+      "name": "Title",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "38E71084-7C3C-4BAA-BB09-61A285A4F1E5",
+      "group_uuids": [
+        "3EA310DC-7AD8-47DE-B88A-312C9BCBA3A0",
+        "E1744CDD-8E28-46DF-8F1B-C24BB14C04F1",
+        "3EA310DC-7AD8-47DE-B88A-312C9BCBA3A0",
+        "53087686-17FA-4AC5-B7B2-59D5D7CE9157",
+        "3EA310DC-7AD8-47DE-B88A-312C9BCBA3A0",
+        "CA7A1AE0-3D5B-4EC3-A463-F69FD3D5F51D",
+        "3EA310DC-7AD8-47DE-B88A-312C9BCBA3A0",
+        "06EBA658-DF23-4438-9B6E-7CA3F24CF5D7",
+        "3EA310DC-7AD8-47DE-B88A-312C9BCBA3A0",
+        "CA7A1AE0-3D5B-4EC3-A463-F69FD3D5F51D",
+        "3EA310DC-7AD8-47DE-B88A-312C9BCBA3A0",
+        "DC10891F-601A-40B1-A6A9-B6F2E6D2D850",
+        "3428E6C6-80FA-4895-BABC-F95A4F7D9F33",
+        "CA7A1AE0-3D5B-4EC3-A463-F69FD3D5F51D",
+        "CA7A1AE0-3D5B-4EC3-A463-F69FD3D5F51D",
+        "3EA310DC-7AD8-47DE-B88A-312C9BCBA3A0",
+        "3EA310DC-7AD8-47DE-B88A-312C9BCBA3A0"
+      ]
+    }
+  ],
+  "current_arrangement": "38E71084-7C3C-4BAA-BB09-61A285A4F1E5"
+}

@@ -1,0 +1,137 @@
+{
+  "song_name": "As For Me And My House",
+  "pro7_uuid": "E93D9163-4BDA-482D-951C-1BA0EE10E83C",
+  "groups": [
+    {
+      "uuid": "F5594E38-F6BD-4DD2-AF49-A6125C4F47AF",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "Oh choose you this day whom you will serve\nThe kingdom of heaven or the powers of earth",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Has He not spoken have you not heard\nThere is but one true God",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "A3E04E7E-61B9-4495-9769-339029B1D441",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "The God of our fathers set us free\nHis Son paid the price for our covenant peace",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Through generations His mercy speaks\nWe trust in one true God",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "94FD49D5-3C01-4FB8-8510-55B37DF48C16",
+      "name": "Chorus",
+      "slides": [
+        {
+          "text": "As for me and my house\nWe will serve serve the Lord",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "As for me and my house\nWe will serve the Lord our God",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "9F4E21CA-62D9-40AC-8FF4-C06284532D38",
+      "name": "Verse 3",
+      "slides": [
+        {
+          "text": "This house is the Lord's and all within\nMay it be pleasing and holy to Him",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Joined by His Spirit His people sing\nGreat is the one true God",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Oh great is the living God",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "0C18942D-00DF-4C0F-B14C-E95FBADA9939",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "Oh praise the Father praise the Son\nPraise the Spirit now in us",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Let every heart and every tongue\nPraise the one true God",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "BB3DCE5A-95DA-4665-B340-9A3620CB5161",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "3A7611C2-34D5-48C5-ADB0-B1F5745615BB",
+      "name": "Title",
+      "slides": [
+        {
+          "text": "",
+          "label": "235 Animate In.mov",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "13AEEF9C-A636-494F-831E-E957E924BA04",
+      "group_uuids": [
+        "3A7611C2-34D5-48C5-ADB0-B1F5745615BB",
+        "F5594E38-F6BD-4DD2-AF49-A6125C4F47AF",
+        "BB3DCE5A-95DA-4665-B340-9A3620CB5161",
+        "A3E04E7E-61B9-4495-9769-339029B1D441",
+        "94FD49D5-3C01-4FB8-8510-55B37DF48C16",
+        "BB3DCE5A-95DA-4665-B340-9A3620CB5161",
+        "9F4E21CA-62D9-40AC-8FF4-C06284532D38",
+        "94FD49D5-3C01-4FB8-8510-55B37DF48C16",
+        "BB3DCE5A-95DA-4665-B340-9A3620CB5161",
+        "0C18942D-00DF-4C0F-B14C-E95FBADA9939",
+        "0C18942D-00DF-4C0F-B14C-E95FBADA9939",
+        "BB3DCE5A-95DA-4665-B340-9A3620CB5161",
+        "94FD49D5-3C01-4FB8-8510-55B37DF48C16",
+        "94FD49D5-3C01-4FB8-8510-55B37DF48C16",
+        "BB3DCE5A-95DA-4665-B340-9A3620CB5161"
+      ]
+    }
+  ],
+  "current_arrangement": ""
+}

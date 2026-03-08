@@ -1,0 +1,188 @@
+{
+  "song_name": "Way Maker",
+  "pro7_uuid": "E746E444-7DF9-4D61-8A8D-FE6D894F3240",
+  "groups": [
+    {
+      "uuid": "4CED7E44-E991-41C0-9F39-1136A636A603",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "You are here moving in our midst\nI worship You I worship You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "You are here working in this place\nI worship You I worship You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "263193C4-A572-4778-B2BA-165CDB691116",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "Way Maker Miracle Worker Promise Keeper\nLight in the darkness my God that is who You are",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "B129AABF-2EBD-428D-B9B9-9F79CD600F48",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "You are here touching ev'ry heart\nI worship You I worship You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "You are here healing ev'ry heart\nI worship You I worship You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "B08DA491-3E40-4571-A306-E6DAD2D685C0",
+      "name": "Verse 3",
+      "slides": [
+        {
+          "text": "You are here turning lives around\nI worship You I worship You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "You are here mending evEry heart\nI worship You I worship You Lord",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "51880384-E713-4A8B-BF63-62443CAD0650",
+      "name": "Misc 1",
+      "slides": [
+        {
+          "text": "That is who You are\nThat is who You are",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "That is who You are\nThat is who You are",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "DC2FCD00-BFFC-48DE-B1DB-B9572CF2B3BC",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "Even when I don't see it You're working\nEven when I don't feel it You're working",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "You never stop You never stop working\nYou never stop You never stop working",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "0BB8F37F-4324-46B4-93B1-5E4E93B1413D",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "48B0690B-4203-44C3-A889-84DDC418C017",
+      "name": "Title",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "7E899F29-187D-490D-861F-315BFCFBB4CF",
+      "group_uuids": [
+        "0BB8F37F-4324-46B4-93B1-5E4E93B1413D",
+        "4CED7E44-E991-41C0-9F39-1136A636A603",
+        "4CED7E44-E991-41C0-9F39-1136A636A603",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "B129AABF-2EBD-428D-B9B9-9F79CD600F48",
+        "B08DA491-3E40-4571-A306-E6DAD2D685C0",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "DC2FCD00-BFFC-48DE-B1DB-B9572CF2B3BC",
+        "DC2FCD00-BFFC-48DE-B1DB-B9572CF2B3BC",
+        "DC2FCD00-BFFC-48DE-B1DB-B9572CF2B3BC",
+        "DC2FCD00-BFFC-48DE-B1DB-B9572CF2B3BC",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "0BB8F37F-4324-46B4-93B1-5E4E93B1413D",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "0BB8F37F-4324-46B4-93B1-5E4E93B1413D"
+      ]
+    },
+    {
+      "name": "MIDI CUT",
+      "uuid": "3EE57BD0-C320-470A-A0ED-43ABE02261D9",
+      "group_uuids": [
+        "0BB8F37F-4324-46B4-93B1-5E4E93B1413D",
+        "4CED7E44-E991-41C0-9F39-1136A636A603",
+        "4CED7E44-E991-41C0-9F39-1136A636A603",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "B129AABF-2EBD-428D-B9B9-9F79CD600F48",
+        "B08DA491-3E40-4571-A306-E6DAD2D685C0",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "DC2FCD00-BFFC-48DE-B1DB-B9572CF2B3BC",
+        "DC2FCD00-BFFC-48DE-B1DB-B9572CF2B3BC",
+        "DC2FCD00-BFFC-48DE-B1DB-B9572CF2B3BC",
+        "DC2FCD00-BFFC-48DE-B1DB-B9572CF2B3BC",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "263193C4-A572-4778-B2BA-165CDB691116",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "51880384-E713-4A8B-BF63-62443CAD0650",
+        "0BB8F37F-4324-46B4-93B1-5E4E93B1413D",
+        "0BB8F37F-4324-46B4-93B1-5E4E93B1413D"
+      ]
+    }
+  ],
+  "current_arrangement": "7E899F29-187D-490D-861F-315BFCFBB4CF"
+}

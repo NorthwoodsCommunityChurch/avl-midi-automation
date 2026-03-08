@@ -1,0 +1,216 @@
+{
+  "song_name": "Glorious Day",
+  "pro7_uuid": "D9B89FDB-6A63-49D1-BC74-CE5A10C5F5EF",
+  "groups": [
+    {
+      "uuid": "8CAF3391-8E2D-41EE-B1B2-D5337D3E2638",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "I was buried beneath my shame",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Who could carry that kind of weight",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "It was my tomb 'til I met You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "1A7012ED-C5C2-4179-9B2C-2BAB6CE8EB04",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "I was breathing but not alive",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "All my failures I tried to hide",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "7946CFB9-4E7B-4864-8DA3-7BDF7832998A",
+      "name": "PreChorus",
+      "slides": [
+        {
+          "text": "It was my tomb 'til I met You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "421AABFB-1861-4668-AD99-F216AA85FDA9",
+      "name": "Chorus 2",
+      "slides": [
+        {
+          "text": "Out of the darkness\ninto Your glorious day",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "You called my name\nand I ran out of that grave",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Out of the darkness\n into Your glorious day",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "5DE47895-9E62-4DEA-B8B5-BD27CA582801",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "You called my name and\nI ran out of that grave",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Out of the darkness\ninto Your glorious day",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "You called my name\nand I ran out of that grave",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Out of the darkness\n into Your glorious day",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "CCC0D074-25EE-466D-8D00-34377C11B227",
+      "name": "Verse 3",
+      "slides": [
+        {
+          "text": "Now Your mercy has saved my soul",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Now Your freedom is all that I know",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "C449CEFC-D903-42FE-B929-899465D5902F",
+      "name": "PreChorus",
+      "slides": [
+        {
+          "text": "The old made new\n Jesus when I met You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "BD3B2F1E-1AB5-4FA0-B93A-E29F141E47ED",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "I needed rescue my sin was heavy\nBut chains break at the weight of Your glory",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I needed shelter I was an orphan\nNow You call me a citizen of Heaven",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "When I was broken You were my healing\nNow Your love is the air that I'm breathing",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I have a future my eyes are open\nCause when You called my name",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I ran out of that grave",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "1BAC649E-1E84-4986-8DBC-A33C7447312E",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "4450AB2A-682D-4EC4-9699-DBFC5FB5CE28",
+      "name": "Title",
+      "slides": [
+        {
+          "text": "",
+          "label": "235 Animate In.mov",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "544CF1F3-D359-41BC-9CAE-1E9B6F86EED4",
+      "name": "Interlude",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "MIDI",
+      "uuid": "D60DFCB1-A342-45AC-A9C2-EB21F5F07D64",
+      "group_uuids": [
+        "1BAC649E-1E84-4986-8DBC-A33C7447312E",
+        "8CAF3391-8E2D-41EE-B1B2-D5337D3E2638",
+        "1BAC649E-1E84-4986-8DBC-A33C7447312E",
+        "1A7012ED-C5C2-4179-9B2C-2BAB6CE8EB04",
+        "7946CFB9-4E7B-4864-8DA3-7BDF7832998A",
+        "5DE47895-9E62-4DEA-B8B5-BD27CA582801",
+        "544CF1F3-D359-41BC-9CAE-1E9B6F86EED4",
+        "CCC0D074-25EE-466D-8D00-34377C11B227",
+        "C449CEFC-D903-42FE-B929-899465D5902F",
+        "5DE47895-9E62-4DEA-B8B5-BD27CA582801",
+        "544CF1F3-D359-41BC-9CAE-1E9B6F86EED4",
+        "BD3B2F1E-1AB5-4FA0-B93A-E29F141E47ED",
+        "421AABFB-1861-4668-AD99-F216AA85FDA9",
+        "1BAC649E-1E84-4986-8DBC-A33C7447312E",
+        "1BAC649E-1E84-4986-8DBC-A33C7447312E"
+      ]
+    }
+  ],
+  "current_arrangement": ""
+}

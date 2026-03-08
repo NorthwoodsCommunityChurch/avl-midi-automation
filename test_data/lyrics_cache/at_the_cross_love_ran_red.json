@@ -1,0 +1,179 @@
+{
+  "song_name": "At The Cross (Love Ran Red)",
+  "pro7_uuid": "5FF8A50B-EF4F-4237-A09B-F27A606A3089",
+  "groups": [
+    {
+      "uuid": "37397F85-5A16-48F9-BC61-5EFFB2488929",
+      "name": "Verse 1",
+      "slides": [
+        {
+          "text": "There's a place\nWhere mercy reigns and never dies",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "There's a place\nWhere streams of grace flow deep and wide",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Where all the love I've ever found\nComes like a flood comes flowing down",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "722F7C4D-304B-471A-8B39-F5FCE7F84F90",
+      "name": "Chorus 1",
+      "slides": [
+        {
+          "text": "At the cross at the cross\nI surrender my life",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I'm in awe of You \nI'm in awe of You",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Where Your love ran red \nand my sin washed white",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "I owe all to You \nI owe all to You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "3502D0A6-6AD8-4BE4-8CA2-DC8EDD0066E3",
+      "name": "Chorus 2",
+      "slides": [
+        {
+          "text": "I owe all to You \nI owe all to You",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "991F3FAF-665D-4DCE-861F-11FFDCA82644",
+      "name": "Interlude",
+      "slides": [
+        {
+          "text": "Jesus",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "D56CE998-0A00-4410-9D35-107846C6E4E7",
+      "name": "Verse 2",
+      "slides": [
+        {
+          "text": "There's a place\nWhere sin and shame are powerless",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Where my heart\nHas peace with God and forgiveness",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Where all the love I've ever found\nComes like a flood comes flowing down",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "6BFD0156-C663-4F49-9728-F224996D754C",
+      "name": "Bridge",
+      "slides": [
+        {
+          "text": "Here my hope is found\nHere on holy ground",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Here I bow down \nhere I bow down",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Here arms open wide\nHere You saved my life",
+          "label": "",
+          "enabled": true
+        },
+        {
+          "text": "Here I bow down here I bow",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "6EF9F21C-904F-4529-9841-67A780706DC9",
+      "name": "Ending",
+      "slides": [
+        {
+          "text": "Jesus",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "uuid": "111D7C52-EA60-42C7-9C95-36845AEB31A9",
+      "name": "Music Break",
+      "slides": [
+        {
+          "text": "",
+          "label": "",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "arrangements": [
+    {
+      "name": "NWCC",
+      "uuid": "B580AA2C-8307-4594-8205-016C4F5D23E4",
+      "group_uuids": [
+        "37397F85-5A16-48F9-BC61-5EFFB2488929",
+        "722F7C4D-304B-471A-8B39-F5FCE7F84F90",
+        "991F3FAF-665D-4DCE-861F-11FFDCA82644",
+        "D56CE998-0A00-4410-9D35-107846C6E4E7",
+        "6BFD0156-C663-4F49-9728-F224996D754C",
+        "6EF9F21C-904F-4529-9841-67A780706DC9",
+        "111D7C52-EA60-42C7-9C95-36845AEB31A9"
+      ]
+    },
+    {
+      "name": "MIDI",
+      "uuid": "ED46D41E-061A-4E46-9C07-D5DB8F82C1B2",
+      "group_uuids": [
+        "111D7C52-EA60-42C7-9C95-36845AEB31A9",
+        "37397F85-5A16-48F9-BC61-5EFFB2488929",
+        "722F7C4D-304B-471A-8B39-F5FCE7F84F90",
+        "991F3FAF-665D-4DCE-861F-11FFDCA82644",
+        "111D7C52-EA60-42C7-9C95-36845AEB31A9",
+        "D56CE998-0A00-4410-9D35-107846C6E4E7",
+        "722F7C4D-304B-471A-8B39-F5FCE7F84F90",
+        "6BFD0156-C663-4F49-9728-F224996D754C",
+        "722F7C4D-304B-471A-8B39-F5FCE7F84F90",
+        "3502D0A6-6AD8-4BE4-8CA2-DC8EDD0066E3",
+        "6EF9F21C-904F-4529-9841-67A780706DC9",
+        "111D7C52-EA60-42C7-9C95-36845AEB31A9",
+        "111D7C52-EA60-42C7-9C95-36845AEB31A9"
+      ]
+    }
+  ],
+  "current_arrangement": "ED46D41E-061A-4E46-9C07-D5DB8F82C1B2"
+}

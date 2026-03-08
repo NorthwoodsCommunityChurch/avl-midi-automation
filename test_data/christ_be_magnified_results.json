@@ -1,0 +1,362 @@
+{
+  "song_name": "Christ Be Magnified",
+  "bpm": 72.0,
+  "offset": 5.0,
+  "model": "medium",
+  "results": [
+    {
+      "position": 1,
+      "gt_slide": 1,
+      "gt_time": 0.833,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 1",
+      "status": "MISSED"
+    },
+    {
+      "position": 2,
+      "gt_slide": 3,
+      "gt_time": 14.998,
+      "al_time": 41.918,
+      "delta": 21.92,
+      "confidence": 1.0,
+      "gt_name": "Slide 2",
+      "status": "BAD"
+    },
+    {
+      "position": 3,
+      "gt_slide": 3,
+      "gt_time": 28.528,
+      "al_time": 42.498,
+      "delta": 8.97,
+      "confidence": 1.0,
+      "gt_name": "Slide 3",
+      "status": "BAD"
+    },
+    {
+      "position": 4,
+      "gt_slide": 4,
+      "gt_time": 39.938,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 4",
+      "status": "MISSED"
+    },
+    {
+      "position": 5,
+      "gt_slide": 5,
+      "gt_time": 45.098,
+      "al_time": 60.718,
+      "delta": 10.62,
+      "confidence": 1.0,
+      "gt_name": "Slide 5",
+      "status": "BAD"
+    },
+    {
+      "position": 6,
+      "gt_slide": 6,
+      "gt_time": 58.818,
+      "al_time": 74.938,
+      "delta": 11.12,
+      "confidence": 1.0,
+      "gt_name": "Slide 6",
+      "status": "BAD"
+    },
+    {
+      "position": 7,
+      "gt_slide": 7,
+      "gt_time": 69.938,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 7",
+      "status": "MISSED"
+    },
+    {
+      "position": 8,
+      "gt_slide": 8,
+      "gt_time": 75.908,
+      "al_time": 79.028,
+      "delta": -1.88,
+      "confidence": 1.0,
+      "gt_name": "Slide 8",
+      "status": "OK"
+    },
+    {
+      "position": 9,
+      "gt_slide": 9,
+      "gt_time": 84.105,
+      "al_time": 87.568,
+      "delta": -1.537,
+      "confidence": 1.0,
+      "gt_name": "Slide 9",
+      "status": "OK"
+    },
+    {
+      "position": 10,
+      "gt_slide": 10,
+      "gt_time": 93.698,
+      "al_time": 97.508,
+      "delta": -1.19,
+      "confidence": 1.0,
+      "gt_name": "Slide 10",
+      "status": "OK"
+    },
+    {
+      "position": 11,
+      "gt_slide": 11,
+      "gt_time": 102.128,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 11",
+      "status": "MISSED"
+    },
+    {
+      "position": 12,
+      "gt_slide": 12,
+      "gt_time": 108.148,
+      "al_time": 110.808,
+      "delta": -2.34,
+      "confidence": 1.0,
+      "gt_name": "Slide 12",
+      "status": "POOR"
+    },
+    {
+      "position": 13,
+      "gt_slide": 13,
+      "gt_time": 121.605,
+      "al_time": 125.168,
+      "delta": -1.437,
+      "confidence": 1.0,
+      "gt_name": "Slide 13",
+      "status": "OK"
+    },
+    {
+      "position": 14,
+      "gt_slide": 14,
+      "gt_time": 133.087,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 14",
+      "status": "MISSED"
+    },
+    {
+      "position": 15,
+      "gt_slide": 15,
+      "gt_time": 139.237,
+      "al_time": 141.847,
+      "delta": -2.39,
+      "confidence": 1.0,
+      "gt_name": "Slide 15",
+      "status": "POOR"
+    },
+    {
+      "position": 16,
+      "gt_slide": 17,
+      "gt_time": 147.237,
+      "al_time": 150.997,
+      "delta": -1.24,
+      "confidence": 1.0,
+      "gt_name": "Slide 16",
+      "status": "OK"
+    },
+    {
+      "position": 17,
+      "gt_slide": 17,
+      "gt_time": 156.827,
+      "al_time": 160.997,
+      "delta": -0.83,
+      "confidence": 1.0,
+      "gt_name": "Slide 17",
+      "status": "GOOD"
+    },
+    {
+      "position": 18,
+      "gt_slide": 18,
+      "gt_time": 165.987,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 18",
+      "status": "MISSED"
+    },
+    {
+      "position": 19,
+      "gt_slide": 19,
+      "gt_time": 192.097,
+      "al_time": 195.837,
+      "delta": -1.26,
+      "confidence": 1.0,
+      "gt_name": "Slide 19",
+      "status": "OK"
+    },
+    {
+      "position": 20,
+      "gt_slide": 20,
+      "gt_time": 198.271,
+      "al_time": 202.637,
+      "delta": -0.634,
+      "confidence": 1.0,
+      "gt_name": "Slide 20",
+      "status": "GOOD"
+    },
+    {
+      "position": 21,
+      "gt_slide": 22,
+      "gt_time": 205.257,
+      "al_time": 209.137,
+      "delta": -1.12,
+      "confidence": 1.0,
+      "gt_name": "Slide 21",
+      "status": "OK"
+    },
+    {
+      "position": 22,
+      "gt_slide": 22,
+      "gt_time": 211.605,
+      "al_time": 215.457,
+      "delta": -1.148,
+      "confidence": 1.0,
+      "gt_name": "Slide 22",
+      "status": "OK"
+    },
+    {
+      "position": 23,
+      "gt_slide": 23,
+      "gt_time": 218.697,
+      "al_time": 221.917,
+      "delta": -1.78,
+      "confidence": 1.0,
+      "gt_name": "Slide 23",
+      "status": "OK"
+    },
+    {
+      "position": 24,
+      "gt_slide": 24,
+      "gt_time": 225.057,
+      "al_time": 229.077,
+      "delta": -0.98,
+      "confidence": 1.0,
+      "gt_name": "Slide 24",
+      "status": "GOOD"
+    },
+    {
+      "position": 25,
+      "gt_slide": 25,
+      "gt_time": 231.767,
+      "al_time": 235.557,
+      "delta": -1.21,
+      "confidence": 1.0,
+      "gt_name": "Slide 25",
+      "status": "OK"
+    },
+    {
+      "position": 26,
+      "gt_slide": 26,
+      "gt_time": 238.487,
+      "al_time": 242.477,
+      "delta": -1.01,
+      "confidence": 1.0,
+      "gt_name": "Slide 26",
+      "status": "OK"
+    },
+    {
+      "position": 27,
+      "gt_slide": 27,
+      "gt_time": 245.917,
+      "al_time": 248.777,
+      "delta": -2.14,
+      "confidence": 1.0,
+      "gt_name": "Slide 27",
+      "status": "POOR"
+    },
+    {
+      "position": 28,
+      "gt_slide": 28,
+      "gt_time": 253.897,
+      "al_time": 257.717,
+      "delta": -1.18,
+      "confidence": 1.0,
+      "gt_name": "Slide 28",
+      "status": "OK"
+    },
+    {
+      "position": 29,
+      "gt_slide": 29,
+      "gt_time": 263.497,
+      "al_time": 267.537,
+      "delta": -0.96,
+      "confidence": 1.0,
+      "gt_name": "Slide 29",
+      "status": "GOOD"
+    },
+    {
+      "position": 30,
+      "gt_slide": 30,
+      "gt_time": 272.577,
+      "al_time": 275.077,
+      "delta": -2.5,
+      "confidence": 1.0,
+      "gt_name": "Slide 30",
+      "status": "POOR"
+    },
+    {
+      "position": 31,
+      "gt_slide": 31,
+      "gt_time": 280.367,
+      "al_time": 284.477,
+      "delta": -0.89,
+      "confidence": 1.0,
+      "gt_name": "Slide 31",
+      "status": "GOOD"
+    },
+    {
+      "position": 32,
+      "gt_slide": 32,
+      "gt_time": 290.097,
+      "al_time": 294.217,
+      "delta": -0.88,
+      "confidence": 1.0,
+      "gt_name": "Slide 32",
+      "status": "GOOD"
+    },
+    {
+      "position": 33,
+      "gt_slide": 33,
+      "gt_time": 299.257,
+      "al_time": null,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "Slide 33",
+      "status": "MISSED"
+    },
+    {
+      "position": 34,
+      "gt_slide": null,
+      "gt_time": null,
+      "al_time": -1,
+      "delta": null,
+      "confidence": 0.0,
+      "gt_name": "",
+      "status": "EXTRA_AL"
+    }
+  ],
+  "summary": {
+    "ground_truth_slides": 33,
+    "alignment_slides": 34,
+    "compared": 33,
+    "matched": 26,
+    "missed": 7,
+    "avg_delta": 3.199,
+    "max_delta": 21.92,
+    "median_delta": 1.26,
+    "within_0.5s": 0,
+    "within_1s": 6,
+    "within_2s": 18,
+    "within_5s": 22
+  }
+}
