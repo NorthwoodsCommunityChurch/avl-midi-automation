@@ -1,5 +1,5 @@
 import Foundation
 
 struct AppVersion {
-    static let current = "0.1.0"
+    static let current = "1.0.0"
 }

@@ -7,7 +7,7 @@ macOS SwiftUI app that automatically places MIDI triggers in Ableton Live to adv
 | | |
 |---|---|
 | Bundle ID | `com.northwoods.MIDIAutomation` |
-| Version | 0.1.0 (build 1) |
+| Version | 1.0.0 (build 1) |
 | macOS target | 14.0+ |
 | Build system | XcodeGen → Xcode |
 | Signing | Ad-hoc (`-`) |
@@ -63,6 +63,10 @@ The built `.app` lands in `build/Debug/` (or DerivedData).
 
 Current best: stable-ts `small` model at 30% <0.5s (13-song batch).
 ALA on Ubuntu: 36% <0.5s with +5s offset (BG vocal onset vs GT trigger timing).
+
+## TODO
+
+- [x] Update app icon and push to git (new icon generated 2026-03-08 via ChatGPT DALL-E — MIDI DIN connector with automation curve, electric blue glow, dark navy squircle)
 
 ## Critical Rules
 
